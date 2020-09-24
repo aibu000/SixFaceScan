@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Config>
+  <!--相机基本参数-->
+  <cameraParam>
+    <!--0不保存图像，1是打开保存图片  仅限所有图像-->
+    <savePic>0</savePic>
+    <!--0不保存图像，1是打开保存图片  仅限未识别图像-->
+    <saveNoreadPic>1</saveNoreadPic>
+    <!--清缓存时间-->
+    <delayTime>200</delayTime>
+    <!--所有图像的路径-->
+    <recPicPath>D:\GWCameraPic\all\</recPicPath>
+    <!--未识别图像的路径-->
+    <noRecPicPath>D:\GWCameraPic\noread\</noRecPicPath>
+    <!--条码输出模式 0代表狂扫即有条码就输出 1代表唯一输出即过一个包裹只给一个条码-->
+    <OutputMode>1</OutputMode>
+    <!--相机触发模式 0是外触发 1是固定帧率触发-->
+    <TriggerMode>1</TriggerMode>
+    <!--是否开启算法 0开启 1关闭-->
+    <IsOpenAlg>0</IsOpenAlg>
+    <!--ksj电平触发 0是低电平 1是高电平-->
+    <LevelSignal>1</LevelSignal>
+    <!--mdws电平触发 0是低电平 1是高电平-->
+    <mdwsLevelSignal>0</mdwsLevelSignal>
+    <!--相机模式 0是mdws 1是ksj 2是组合相机-->
+    <CameraStyle>1</CameraStyle>
+    <!--是否需要线扫相机 0是需要 1是不需要-->
+    <LineCameraStyle>1</LineCameraStyle>
+    <!--保存单个相机图像 具体以Serials后面的数字为主-->
+    <Serials>1</Serials>
+    <!--凯视佳相机控制光源长亮-滤波-->
+    <Filter>1000</Filter>
+    <!--步长-->
+    <Step>150</Step>
+    <!--凯视佳相机控制光源长亮- 单位为:s-->
+    <StopCaptureTime>60</StopCaptureTime>
+    <!--凯视佳相机控制光源模式 启动即长亮：1；过包裹长亮：0-->
+    <LampStyle>1</LampStyle>
+  </cameraParam>
+  <MDWSParam>
+    <!--开始拍照延时时间-->
+    <startCameraDelayTime>0,0,0,0,0,0,0,0,0,0,0,0</startCameraDelayTime>
+    <!--结束拍照延时时间-->
+    <endCameraDelayTime>0,0,0,0,0,0,0,0,0,0,0,0</endCameraDelayTime>
+  </MDWSParam>
+  <KSJCameraParam>
+    <ksjExposureLine>13</ksjExposureLine>
+    <!--ksj相机高低电平有效帧率模式下的固定帧率-->
+    <frame>10</frame>
+    <!--ksj相机是否保存日志 0表示不保存  1代表保存-->
+    <ksjLogEnable>1</ksjLogEnable>
+    <!--ksj相机保存日志路径-->
+    <ksjLogPath>D:\KSJLog\</ksjLogPath>
+  </KSJCameraParam>
+  <LineCameraParam>
+    <IP>192.168.2.66</IP>
+    <Port>51236</Port>
+  </LineCameraParam>
+</Config>

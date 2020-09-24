@@ -1,0 +1,15 @@
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode\SixFaceScanCode\bin\Debug\SixFaceScanCode.exe.config
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode\SixFaceScanCode\bin\Debug\SixFaceScanCode.exe
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode\SixFaceScanCode\bin\Debug\SixFaceScanCode.pdb
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode\SixFaceScanCode\bin\Debug\GWCamera.dll
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode\SixFaceScanCode\bin\Debug\GWCamera.pdb
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode\SixFaceScanCode\obj\Debug\SixFaceScanCode.csprojResolveAssemblyReference.cache
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode\SixFaceScanCode\obj\Debug\MainWindow.baml
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode\SixFaceScanCode\obj\Debug\MainWindow.g.cs
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode\SixFaceScanCode\obj\Debug\App.g.cs
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode\SixFaceScanCode\obj\Debug\SixFaceScanCode_MarkupCompile.cache
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode\SixFaceScanCode\obj\Debug\SixFaceScanCode.g.resources
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode\SixFaceScanCode\obj\Debug\SixFaceScanCode.Properties.Resources.resources
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode\SixFaceScanCode\obj\Debug\SixFaceScanCode.csproj.GenerateResource.Cache
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode\SixFaceScanCode\obj\Debug\SixFaceScanCode.exe
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode\SixFaceScanCode\obj\Debug\SixFaceScanCode.pdb

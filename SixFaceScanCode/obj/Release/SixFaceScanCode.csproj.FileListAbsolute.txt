@@ -1,0 +1,289 @@
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode\SixFaceScanCode\bin\Release\SixFaceScanCode.exe.config
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode\SixFaceScanCode\bin\Release\SixFaceScanCode.exe
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode\SixFaceScanCode\bin\Release\SixFaceScanCode.pdb
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode\SixFaceScanCode\bin\Release\GWCamera.dll
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode\SixFaceScanCode\bin\Release\GWCamera.pdb
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode\SixFaceScanCode\obj\Release\SixFaceScanCode.csprojResolveAssemblyReference.cache
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode\SixFaceScanCode\obj\Release\MainWindow.baml
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode\SixFaceScanCode\obj\Release\MainWindow.g.cs
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode\SixFaceScanCode\obj\Release\App.g.cs
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode\SixFaceScanCode\obj\Release\SixFaceScanCode_MarkupCompile.cache
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode\SixFaceScanCode\obj\Release\SixFaceScanCode.g.resources
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode\SixFaceScanCode\obj\Release\SixFaceScanCode.Properties.Resources.resources
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode\SixFaceScanCode\obj\Release\SixFaceScanCode.csproj.GenerateResource.Cache
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode\SixFaceScanCode\obj\Release\SixFaceScanCode.exe
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode\SixFaceScanCode\obj\Release\SixFaceScanCode.pdb
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode\SixFaceScanCode\bin\Release\AlgorithmBarcodeDetection64.dll
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode\SixFaceScanCode\bin\Release\ZKGWConfig.xml
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode - 测试保存图片\SixFaceScanCode\bin\Release\SixFaceScanCode.exe.config
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode - 测试保存图片\SixFaceScanCode\obj\Release\SixFaceScanCode.exe
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode - 测试保存图片\SixFaceScanCode\obj\Release\SixFaceScanCode.pdb
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode - 测试保存图片\SixFaceScanCode\bin\Release\AlgorithmBarcodeDetection64.dll
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode - 测试保存图片\SixFaceScanCode\bin\Release\ZKGWConfig.xml
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode - 测试保存图片\SixFaceScanCode\bin\Release\SixFaceScanCode.exe
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode - 测试保存图片\SixFaceScanCode\bin\Release\SixFaceScanCode.pdb
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode - 测试保存图片\SixFaceScanCode\bin\Release\GWCamera.dll
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode - 测试保存图片\SixFaceScanCode\bin\Release\GWCamera.pdb
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode - 测试保存图片\SixFaceScanCode\obj\Release\SixFaceScanCode.csprojResolveAssemblyReference.cache
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode - 测试保存图片\SixFaceScanCode\obj\Release\MainWindow.baml
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode - 测试保存图片\SixFaceScanCode\obj\Release\MainWindow.g.cs
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode - 测试保存图片\SixFaceScanCode\obj\Release\App.g.cs
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode - 测试保存图片\SixFaceScanCode\obj\Release\SixFaceScanCode_MarkupCompile.cache
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode - 测试保存图片\SixFaceScanCode\obj\Release\SixFaceScanCode.g.resources
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode - 测试保存图片\SixFaceScanCode\obj\Release\SixFaceScanCode.Properties.Resources.resources
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode - 测试保存图片\SixFaceScanCode\obj\Release\SixFaceScanCode.csproj.GenerateResource.Cache
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode - 将迈德威视跟凯视佳统一起来发出去\SixFaceScanCode\bin\Release\SixFaceScanCode.exe.config
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode - 将迈德威视跟凯视佳统一起来发出去\SixFaceScanCode\obj\Release\SixFaceScanCode.exe
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode - 将迈德威视跟凯视佳统一起来发出去\SixFaceScanCode\obj\Release\SixFaceScanCode.pdb
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode - 将迈德威视跟凯视佳统一起来发出去\SixFaceScanCode\obj\Release\SixFaceScanCode.csprojResolveAssemblyReference.cache
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode - 将迈德威视跟凯视佳统一起来发出去\SixFaceScanCode\obj\Release\MainWindow.baml
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode - 将迈德威视跟凯视佳统一起来发出去\SixFaceScanCode\obj\Release\MainWindow.g.cs
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode - 将迈德威视跟凯视佳统一起来发出去\SixFaceScanCode\obj\Release\App.g.cs
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode - 将迈德威视跟凯视佳统一起来发出去\SixFaceScanCode\obj\Release\SixFaceScanCode_MarkupCompile.cache
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode - 将迈德威视跟凯视佳统一起来发出去\SixFaceScanCode\obj\Release\SixFaceScanCode.g.resources
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode - 将迈德威视跟凯视佳统一起来发出去\SixFaceScanCode\obj\Release\SixFaceScanCode.Properties.Resources.resources
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode - 将迈德威视跟凯视佳统一起来发出去\SixFaceScanCode\obj\Release\SixFaceScanCode.csproj.GenerateResource.Cache
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode - 将迈德威视跟凯视佳统一起来发出去\SixFaceScanCode\bin\Release\AlgorithmBarcodeDetection64.dll
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode - 将迈德威视跟凯视佳统一起来发出去\SixFaceScanCode\bin\Release\ZKGWConfig.xml
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode - 将迈德威视跟凯视佳统一起来发出去\SixFaceScanCode\bin\Release\SixFaceScanCode.exe
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode - 将迈德威视跟凯视佳统一起来发出去\SixFaceScanCode\bin\Release\SixFaceScanCode.pdb
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode - 将迈德威视跟凯视佳统一起来发出去\SixFaceScanCode\bin\Release\GWCamera.dll
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode - 将迈德威视跟凯视佳统一起来发出去\SixFaceScanCode\bin\Release\GWCamera.pdb
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode - 正式版\SixFaceScanCode\bin\Release\AlgorithmBarcodeDetection64.dll
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode - 正式版\SixFaceScanCode\bin\Release\ZKGWConfig.xml
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode - 正式版\SixFaceScanCode\bin\Release\SixFaceScanCode.exe.config
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode - 正式版\SixFaceScanCode\bin\Release\SixFaceScanCode.exe
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode - 正式版\SixFaceScanCode\bin\Release\SixFaceScanCode.pdb
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode - 正式版\SixFaceScanCode\bin\Release\GWCamera.dll
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode - 正式版\SixFaceScanCode\bin\Release\GWCamera.pdb
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode - 正式版\SixFaceScanCode\obj\Release\SixFaceScanCode.csprojResolveAssemblyReference.cache
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode - 正式版\SixFaceScanCode\obj\Release\MainWindow.baml
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode - 正式版\SixFaceScanCode\obj\Release\MainWindow.g.cs
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode - 正式版\SixFaceScanCode\obj\Release\App.g.cs
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode - 正式版\SixFaceScanCode\obj\Release\SixFaceScanCode_MarkupCompile.cache
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode - 正式版\SixFaceScanCode\obj\Release\SixFaceScanCode.g.resources
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode - 正式版\SixFaceScanCode\obj\Release\SixFaceScanCode.Properties.Resources.resources
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode - 正式版\SixFaceScanCode\obj\Release\SixFaceScanCode.csproj.GenerateResource.Cache
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode - 正式版\SixFaceScanCode\obj\Release\SixFaceScanCode.exe
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode - 正式版\SixFaceScanCode\obj\Release\SixFaceScanCode.pdb
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode - 正式版 - 适配不同分辨率相机\SixFaceScanCode\obj\Release\SixFaceScanCode.csprojResolveAssemblyReference.cache
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode - 正式版 - 适配不同分辨率相机\SixFaceScanCode\obj\Release\MainWindow.baml
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode - 正式版 - 适配不同分辨率相机\SixFaceScanCode\obj\Release\MainWindow.g.cs
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode - 正式版 - 适配不同分辨率相机\SixFaceScanCode\obj\Release\App.g.cs
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode - 正式版 - 适配不同分辨率相机\SixFaceScanCode\obj\Release\SixFaceScanCode_MarkupCompile.cache
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode - 正式版 - 适配不同分辨率相机\SixFaceScanCode\obj\Release\SixFaceScanCode.g.resources
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode - 正式版 - 适配不同分辨率相机\SixFaceScanCode\obj\Release\SixFaceScanCode.Properties.Resources.resources
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode - 正式版 - 适配不同分辨率相机\SixFaceScanCode\obj\Release\SixFaceScanCode.csproj.GenerateResource.Cache
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode - 正式版 - 适配不同分辨率相机\SixFaceScanCode\bin\Release\AlgorithmBarcodeDetection64.dll
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode - 正式版 - 适配不同分辨率相机\SixFaceScanCode\bin\Release\ZKGWConfig.xml
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode - 正式版 - 适配不同分辨率相机\SixFaceScanCode\bin\Release\SixFaceScanCode.exe.config
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode - 正式版 - 适配不同分辨率相机\SixFaceScanCode\bin\Release\SixFaceScanCode.exe
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode - 正式版 - 适配不同分辨率相机\SixFaceScanCode\bin\Release\SixFaceScanCode.pdb
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode - 正式版 - 适配不同分辨率相机\SixFaceScanCode\bin\Release\GWCamera.dll
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode - 正式版 - 适配不同分辨率相机\SixFaceScanCode\bin\Release\GWCamera.pdb
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode - 正式版 - 适配不同分辨率相机\SixFaceScanCode\obj\Release\SixFaceScanCode.exe
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode - 正式版 - 适配不同分辨率相机\SixFaceScanCode\obj\Release\SixFaceScanCode.pdb
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode - 201905142321\SixFaceScanCode\bin\Release\SixFaceScanCode.exe.config
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode - 201905142321\SixFaceScanCode\obj\Release\SixFaceScanCode.exe
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode - 201905142321\SixFaceScanCode\obj\Release\SixFaceScanCode.pdb
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode - 201905142321\SixFaceScanCode\bin\Release\AlgorithmBarcodeDetection64.dll
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode - 201905142321\SixFaceScanCode\bin\Release\ZKGWConfig.xml
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode - 201905142321\SixFaceScanCode\bin\Release\SixFaceScanCode.exe
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode - 201905142321\SixFaceScanCode\bin\Release\SixFaceScanCode.pdb
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode - 201905142321\SixFaceScanCode\bin\Release\GWCamera.dll
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode - 201905142321\SixFaceScanCode\bin\Release\GWCamera.pdb
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode - 201905142321\SixFaceScanCode\obj\Release\SixFaceScanCode.csprojResolveAssemblyReference.cache
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode - 201905142321\SixFaceScanCode\obj\Release\MainWindow.baml
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode - 201905142321\SixFaceScanCode\obj\Release\MainWindow.g.cs
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode - 201905142321\SixFaceScanCode\obj\Release\App.g.cs
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode - 201905142321\SixFaceScanCode\obj\Release\SixFaceScanCode_MarkupCompile.cache
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode - 201905142321\SixFaceScanCode\obj\Release\SixFaceScanCode.g.resources
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode - 201905142321\SixFaceScanCode\obj\Release\SixFaceScanCode.Properties.Resources.resources
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode - 201905142321\SixFaceScanCode\obj\Release\SixFaceScanCode.csproj.GenerateResource.Cache
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode - 20190516 揭阳\SixFaceScanCode\bin\Release\SixFaceScanCode.exe.config
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode - 20190516 揭阳\SixFaceScanCode\obj\Release\SixFaceScanCode.exe
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode - 20190516 揭阳\SixFaceScanCode\obj\Release\SixFaceScanCode.pdb
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode - 20190516 揭阳\SixFaceScanCode\bin\Release\AlgorithmBarcodeDetection64.dll
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode - 20190516 揭阳\SixFaceScanCode\bin\Release\ZKGWConfig.xml
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode - 20190516 揭阳\SixFaceScanCode\bin\Release\SixFaceScanCode.exe
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode - 20190516 揭阳\SixFaceScanCode\bin\Release\SixFaceScanCode.pdb
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode - 20190516 揭阳\SixFaceScanCode\bin\Release\GWCamera.dll
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode - 20190516 揭阳\SixFaceScanCode\bin\Release\GWCamera.pdb
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode - 20190516 揭阳\SixFaceScanCode\obj\Release\SixFaceScanCode.csprojResolveAssemblyReference.cache
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode - 20190516 揭阳\SixFaceScanCode\obj\Release\MainWindow.baml
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode - 20190516 揭阳\SixFaceScanCode\obj\Release\MainWindow.g.cs
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode - 20190516 揭阳\SixFaceScanCode\obj\Release\App.g.cs
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode - 20190516 揭阳\SixFaceScanCode\obj\Release\SixFaceScanCode_MarkupCompile.cache
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode - 20190516 揭阳\SixFaceScanCode\obj\Release\SixFaceScanCode.g.resources
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode - 20190516 揭阳\SixFaceScanCode\obj\Release\SixFaceScanCode.Properties.Resources.resources
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode - 20190516 揭阳\SixFaceScanCode\obj\Release\SixFaceScanCode.csproj.GenerateResource.Cache
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190519\SixFaceScanCode\bin\Release\AlgorithmBarcodeDetection64.dll
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190519\SixFaceScanCode\bin\Release\ZKGWConfig.xml
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190519\SixFaceScanCode\bin\Release\SixFaceScanCode.exe.config
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190519\SixFaceScanCode\bin\Release\SixFaceScanCode.exe
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190519\SixFaceScanCode\bin\Release\SixFaceScanCode.pdb
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190519\SixFaceScanCode\bin\Release\GWCamera.dll
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190519\SixFaceScanCode\bin\Release\GWCamera.pdb
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190519\SixFaceScanCode\obj\Release\SixFaceScanCode.csprojResolveAssemblyReference.cache
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190519\SixFaceScanCode\obj\Release\MainWindow.baml
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190519\SixFaceScanCode\obj\Release\MainWindow.g.cs
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190519\SixFaceScanCode\obj\Release\App.g.cs
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190519\SixFaceScanCode\obj\Release\SixFaceScanCode_MarkupCompile.cache
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190519\SixFaceScanCode\obj\Release\SixFaceScanCode.g.resources
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190519\SixFaceScanCode\obj\Release\SixFaceScanCode.Properties.Resources.resources
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190519\SixFaceScanCode\obj\Release\SixFaceScanCode.csproj.GenerateResource.Cache
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190519\SixFaceScanCode\obj\Release\SixFaceScanCode.exe
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190519\SixFaceScanCode\obj\Release\SixFaceScanCode.pdb
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190520\SixFaceScanCode\bin\Release\SixFaceScanCode.exe.config
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190520\SixFaceScanCode\obj\Release\SixFaceScanCode.exe
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190520\SixFaceScanCode\obj\Release\SixFaceScanCode.pdb
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190520\SixFaceScanCode\bin\Release\AlgorithmBarcodeDetection64.dll
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190520\SixFaceScanCode\bin\Release\ZKGWConfig.xml
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190520\SixFaceScanCode\bin\Release\SixFaceScanCode.exe
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190520\SixFaceScanCode\bin\Release\SixFaceScanCode.pdb
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190520\SixFaceScanCode\bin\Release\GWCamera.dll
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190520\SixFaceScanCode\bin\Release\GWCamera.pdb
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190520\SixFaceScanCode\obj\Release\MainWindow.baml
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190520\SixFaceScanCode\obj\Release\MainWindow.g.cs
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190520\SixFaceScanCode\obj\Release\App.g.cs
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190520\SixFaceScanCode\obj\Release\SixFaceScanCode_MarkupCompile.cache
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190520\SixFaceScanCode\obj\Release\SixFaceScanCode.g.resources
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190520\SixFaceScanCode\obj\Release\SixFaceScanCode.Properties.Resources.resources
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190520\SixFaceScanCode\obj\Release\SixFaceScanCode.csproj.GenerateResource.Cache
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190520\SixFaceScanCode\obj\Release\SixFaceScanCode.csprojResolveAssemblyReference.cache
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190528\SixFaceScanCode\bin\Release\AlgorithmBarcodeDetection64.dll
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190528\SixFaceScanCode\bin\Release\ZKGWConfig.xml
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190528\SixFaceScanCode\bin\Release\SixFaceScanCode.exe.config
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190528\SixFaceScanCode\bin\Release\SixFaceScanCode.exe
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190528\SixFaceScanCode\bin\Release\SixFaceScanCode.pdb
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190528\SixFaceScanCode\bin\Release\GWCamera.dll
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190528\SixFaceScanCode\bin\Release\GWCamera.pdb
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190528\SixFaceScanCode\obj\Release\SixFaceScanCode.csprojResolveAssemblyReference.cache
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190528\SixFaceScanCode\obj\Release\MainWindow.baml
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190528\SixFaceScanCode\obj\Release\MainWindow.g.cs
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190528\SixFaceScanCode\obj\Release\App.g.cs
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190528\SixFaceScanCode\obj\Release\SixFaceScanCode_MarkupCompile.cache
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190528\SixFaceScanCode\obj\Release\SixFaceScanCode.g.resources
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190528\SixFaceScanCode\obj\Release\SixFaceScanCode.Properties.Resources.resources
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190528\SixFaceScanCode\obj\Release\SixFaceScanCode.csproj.GenerateResource.Cache
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190528\SixFaceScanCode\obj\Release\SixFaceScanCode.exe
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190528\SixFaceScanCode\obj\Release\SixFaceScanCode.pdb
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190528--融合成一个版本\SixFaceScanCode\bin\Release\AlgorithmBarcodeDetection64.dll
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190528--融合成一个版本\SixFaceScanCode\bin\Release\ZKGWConfig.xml
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190528--融合成一个版本\SixFaceScanCode\bin\Release\SixFaceScanCode.exe.config
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190528--融合成一个版本\SixFaceScanCode\bin\Release\SixFaceScanCode.exe
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190528--融合成一个版本\SixFaceScanCode\bin\Release\SixFaceScanCode.pdb
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190528--融合成一个版本\SixFaceScanCode\bin\Release\GWCamera.dll
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190528--融合成一个版本\SixFaceScanCode\bin\Release\GWCamera.pdb
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190528--融合成一个版本\SixFaceScanCode\obj\Release\SixFaceScanCode.csprojResolveAssemblyReference.cache
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190528--融合成一个版本\SixFaceScanCode\obj\Release\MainWindow.baml
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190528--融合成一个版本\SixFaceScanCode\obj\Release\MainWindow.g.cs
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190528--融合成一个版本\SixFaceScanCode\obj\Release\App.g.cs
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190528--融合成一个版本\SixFaceScanCode\obj\Release\SixFaceScanCode_MarkupCompile.cache
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190528--融合成一个版本\SixFaceScanCode\obj\Release\SixFaceScanCode.g.resources
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190528--融合成一个版本\SixFaceScanCode\obj\Release\SixFaceScanCode.Properties.Resources.resources
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190528--融合成一个版本\SixFaceScanCode\obj\Release\SixFaceScanCode.csproj.GenerateResource.Cache
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190528--融合成一个版本\SixFaceScanCode\obj\Release\SixFaceScanCode.exe
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190528--融合成一个版本\SixFaceScanCode\obj\Release\SixFaceScanCode.pdb
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190531\SixFaceScanCode\bin\Release\SixFaceScanCode.exe.config
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190531\SixFaceScanCode\obj\Release\SixFaceScanCode.exe
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190531\SixFaceScanCode\obj\Release\SixFaceScanCode.pdb
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190531\SixFaceScanCode\bin\Release\AlgorithmBarcodeDetection64.dll
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190531\SixFaceScanCode\bin\Release\ZKGWConfig.xml
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190531\SixFaceScanCode\bin\Release\SixFaceScanCode.exe
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190531\SixFaceScanCode\bin\Release\SixFaceScanCode.pdb
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190531\SixFaceScanCode\bin\Release\GWCamera.dll
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190531\SixFaceScanCode\bin\Release\GWCamera.pdb
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190531\SixFaceScanCode\obj\Release\SixFaceScanCode.csprojResolveAssemblyReference.cache
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190531\SixFaceScanCode\obj\Release\MainWindow.baml
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190531\SixFaceScanCode\obj\Release\MainWindow.g.cs
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190531\SixFaceScanCode\obj\Release\App.g.cs
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190531\SixFaceScanCode\obj\Release\SixFaceScanCode_MarkupCompile.cache
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190531\SixFaceScanCode\obj\Release\SixFaceScanCode.g.resources
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190531\SixFaceScanCode\obj\Release\SixFaceScanCode.Properties.Resources.resources
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190531\SixFaceScanCode\obj\Release\SixFaceScanCode.csproj.GenerateResource.Cache
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190531 - 所有包裹走完再保存的\SixFaceScanCode\bin\Release\AlgorithmBarcodeDetection64.dll
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190531 - 所有包裹走完再保存的\SixFaceScanCode\bin\Release\ZKGWConfig.xml
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190531 - 所有包裹走完再保存的\SixFaceScanCode\bin\Release\SixFaceScanCode.exe.config
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190531 - 所有包裹走完再保存的\SixFaceScanCode\bin\Release\SixFaceScanCode.exe
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190531 - 所有包裹走完再保存的\SixFaceScanCode\bin\Release\SixFaceScanCode.pdb
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190531 - 所有包裹走完再保存的\SixFaceScanCode\bin\Release\GWCamera.dll
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190531 - 所有包裹走完再保存的\SixFaceScanCode\bin\Release\GWCamera.pdb
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190531 - 所有包裹走完再保存的\SixFaceScanCode\obj\Release\SixFaceScanCode.csprojResolveAssemblyReference.cache
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190531 - 所有包裹走完再保存的\SixFaceScanCode\obj\Release\MainWindow.baml
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190531 - 所有包裹走完再保存的\SixFaceScanCode\obj\Release\MainWindow.g.cs
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190531 - 所有包裹走完再保存的\SixFaceScanCode\obj\Release\App.g.cs
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190531 - 所有包裹走完再保存的\SixFaceScanCode\obj\Release\SixFaceScanCode_MarkupCompile.cache
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190531 - 所有包裹走完再保存的\SixFaceScanCode\obj\Release\SixFaceScanCode.g.resources
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190531 - 所有包裹走完再保存的\SixFaceScanCode\obj\Release\SixFaceScanCode.Properties.Resources.resources
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190531 - 所有包裹走完再保存的\SixFaceScanCode\obj\Release\SixFaceScanCode.csproj.GenerateResource.Cache
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190531 - 所有包裹走完再保存的\SixFaceScanCode\obj\Release\SixFaceScanCode.exe
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190531 - 所有包裹走完再保存的\SixFaceScanCode\obj\Release\SixFaceScanCode.pdb
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190603\SixFaceScanCode\bin\Release\AlgorithmBarcodeDetection64.dll
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190603\SixFaceScanCode\bin\Release\ZKGWConfig.xml
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190603\SixFaceScanCode\bin\Release\SixFaceScanCode.exe.config
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190603\SixFaceScanCode\bin\Release\SixFaceScanCode.exe
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190603\SixFaceScanCode\bin\Release\SixFaceScanCode.pdb
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190603\SixFaceScanCode\bin\Release\GWCamera.dll
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190603\SixFaceScanCode\bin\Release\GWCamera.pdb
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190603\SixFaceScanCode\obj\Release\SixFaceScanCode.csprojResolveAssemblyReference.cache
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190603\SixFaceScanCode\obj\Release\MainWindow.baml
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190603\SixFaceScanCode\obj\Release\MainWindow.g.cs
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190603\SixFaceScanCode\obj\Release\App.g.cs
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190603\SixFaceScanCode\obj\Release\SixFaceScanCode_MarkupCompile.cache
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190603\SixFaceScanCode\obj\Release\SixFaceScanCode.g.resources
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190603\SixFaceScanCode\obj\Release\SixFaceScanCode.Properties.Resources.resources
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190603\SixFaceScanCode\obj\Release\SixFaceScanCode.csproj.GenerateResource.Cache
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190603\SixFaceScanCode\obj\Release\SixFaceScanCode.exe
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190603\SixFaceScanCode\obj\Release\SixFaceScanCode.pdb
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190604\SixFaceScanCode\bin\Release\AlgorithmBarcodeDetection64.dll
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190604\SixFaceScanCode\bin\Release\ZKGWConfig.xml
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190604\SixFaceScanCode\bin\Release\SixFaceScanCode.exe.config
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190604\SixFaceScanCode\bin\Release\SixFaceScanCode.exe
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190604\SixFaceScanCode\bin\Release\SixFaceScanCode.pdb
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190604\SixFaceScanCode\bin\Release\GWCamera.dll
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190604\SixFaceScanCode\bin\Release\GWCamera.pdb
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190604\SixFaceScanCode\obj\Release\SixFaceScanCode.csprojResolveAssemblyReference.cache
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190604\SixFaceScanCode\obj\Release\MainWindow.baml
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190604\SixFaceScanCode\obj\Release\MainWindow.g.cs
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190604\SixFaceScanCode\obj\Release\App.g.cs
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190604\SixFaceScanCode\obj\Release\SixFaceScanCode_MarkupCompile.cache
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190604\SixFaceScanCode\obj\Release\SixFaceScanCode.g.resources
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190604\SixFaceScanCode\obj\Release\SixFaceScanCode.Properties.Resources.resources
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190604\SixFaceScanCode\obj\Release\SixFaceScanCode.csproj.GenerateResource.Cache
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190604\SixFaceScanCode\obj\Release\SixFaceScanCode.exe
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190604\SixFaceScanCode\obj\Release\SixFaceScanCode.pdb
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190604 - 迈德威视可以保存+ksj\SixFaceScanCode\bin\Release\SixFaceScanCode.exe.config
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190604 - 迈德威视可以保存+ksj\SixFaceScanCode\obj\Release\SixFaceScanCode.exe
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190604 - 迈德威视可以保存+ksj\SixFaceScanCode\obj\Release\SixFaceScanCode.pdb
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190604 - 迈德威视可以保存+ksj\SixFaceScanCode\bin\Release\AlgorithmBarcodeDetection64.dll
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190604 - 迈德威视可以保存+ksj\SixFaceScanCode\bin\Release\ZKGWConfig.xml
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190604 - 迈德威视可以保存+ksj\SixFaceScanCode\bin\Release\SixFaceScanCode.exe
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190604 - 迈德威视可以保存+ksj\SixFaceScanCode\bin\Release\SixFaceScanCode.pdb
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190604 - 迈德威视可以保存+ksj\SixFaceScanCode\bin\Release\GWCamera.dll
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190604 - 迈德威视可以保存+ksj\SixFaceScanCode\bin\Release\GWCamera.pdb
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190604 - 迈德威视可以保存+ksj\SixFaceScanCode\obj\Release\SixFaceScanCode.csprojResolveAssemblyReference.cache
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190604 - 迈德威视可以保存+ksj\SixFaceScanCode\obj\Release\MainWindow.baml
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190604 - 迈德威视可以保存+ksj\SixFaceScanCode\obj\Release\MainWindow.g.cs
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190604 - 迈德威视可以保存+ksj\SixFaceScanCode\obj\Release\App.g.cs
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190604 - 迈德威视可以保存+ksj\SixFaceScanCode\obj\Release\SixFaceScanCode_MarkupCompile.cache
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190604 - 迈德威视可以保存+ksj\SixFaceScanCode\obj\Release\SixFaceScanCode.g.resources
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190604 - 迈德威视可以保存+ksj\SixFaceScanCode\obj\Release\SixFaceScanCode.Properties.Resources.resources
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190604 - 迈德威视可以保存+ksj\SixFaceScanCode\obj\Release\SixFaceScanCode.csproj.GenerateResource.Cache
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\SixFaceScanCode\bin\Release\AlgorithmBarcodeDetection64.dll
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\SixFaceScanCode\bin\Release\ZKGWConfig.xml
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\SixFaceScanCode\bin\Release\SixFaceScanCode.exe.config
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\SixFaceScanCode\bin\Release\SixFaceScanCode.exe
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\SixFaceScanCode\bin\Release\SixFaceScanCode.pdb
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\SixFaceScanCode\bin\Release\GWCamera.dll
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\SixFaceScanCode\bin\Release\GWCamera.pdb
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\SixFaceScanCode\obj\Release\SixFaceScanCode.csprojResolveAssemblyReference.cache
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\SixFaceScanCode\obj\Release\MainWindow.baml
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\SixFaceScanCode\obj\Release\MainWindow.g.cs
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\SixFaceScanCode\obj\Release\App.g.cs
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\SixFaceScanCode\obj\Release\SixFaceScanCode_MarkupCompile.cache
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\SixFaceScanCode\obj\Release\SixFaceScanCode.g.resources
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\SixFaceScanCode\obj\Release\SixFaceScanCode.Properties.Resources.resources
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\SixFaceScanCode\obj\Release\SixFaceScanCode.csproj.GenerateResource.Cache
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\SixFaceScanCode\obj\Release\SixFaceScanCode.exe
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\SixFaceScanCode\obj\Release\SixFaceScanCode.pdb

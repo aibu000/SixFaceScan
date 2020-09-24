@@ -1,0 +1,6 @@
+2019-06-26 18:37:35 127    ProcessThread:System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 GWCamera.MDWSCameraHandler.NewBitmapFromGrayData(Byte[] ImgData, Int32 w, Int32 h) 位置 e:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\MDWSCameraHandler.cs:行号 776
+   在 GWCamera.MDWSCameraHandler.ProcessThread() 位置 e:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\MDWSCameraHandler.cs:行号 712
+2019-06-26 18:41:31 520    ProcessThread:System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 GWCamera.MDWSCameraHandler.NewBitmapFromGrayData(Byte[] ImgData, Int32 w, Int32 h) 位置 e:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\MDWSCameraHandler.cs:行号 776
+   在 GWCamera.MDWSCameraHandler.ProcessThread() 位置 e:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\MDWSCameraHandler.cs:行号 712

@@ -1,0 +1,255 @@
+2019-06-26 14:19:40 334    New package start : 1 -> 0
+2019-06-26 14:19:40 344    New package start : 1 -> 0
+2019-06-26 14:19:40 347    Package Complete, id: 1, FrameCount: 0
+2019-06-26 14:19:40 366    New package start : 1 -> 0
+2019-06-26 14:19:52 595    Package Begin: 1.
+2019-06-26 14:20:32 571    New package start : 1 -> 0
+2019-06-26 14:20:32 581    New package start : 1 -> 0
+2019-06-26 14:20:32 597    Package Complete, id: 1, FrameCount: 0
+2019-06-26 14:20:33 717    New package start : 1 -> 0
+2019-06-26 14:20:35 559    Package Begin: 1.
+2019-06-26 14:22:33 008    New package start : 1 -> 0
+2019-06-26 14:22:33 019    New package start : 1 -> 0
+2019-06-26 14:22:33 035    Package Complete, id: 1, FrameCount: 0
+2019-06-26 14:22:33 052    New package start : 1 -> 0
+2019-06-26 14:22:34 850    Package Begin: 1.
+2019-06-26 14:22:50 891    New package start : 1 -> 0
+2019-06-26 14:22:50 907    New package start : 1 -> 0
+2019-06-26 14:22:50 922    Package Complete, id: 1, FrameCount: 0
+2019-06-26 14:22:50 933    New package start : 1 -> 0
+2019-06-26 14:22:50 941    Package Complete, id: 2, FrameCount: 0
+2019-06-26 14:22:50 957    New package start : 1 -> 0
+2019-06-26 14:22:50 963    Package Complete, id: 3, FrameCount: 0
+2019-06-26 14:22:50 981    New package start : 1 -> 0
+2019-06-26 14:22:50 984    Package Complete, id: 4, FrameCount: 0
+2019-06-26 14:22:51 001    New package start : 1 -> 0
+2019-06-26 14:22:51 004    Package Begin: 1.
+2019-06-26 14:22:51 010    Package Complete, id: 5, FrameCount: 0
+2019-06-26 14:22:51 017    New package start : 1 -> 0
+2019-06-26 14:22:51 023    Package Complete, id: 6, FrameCount: 0
+2019-06-26 14:22:51 031    New package start : 1 -> 0
+2019-06-26 14:22:51 036    Package Complete, id: 7, FrameCount: 0
+2019-06-26 14:22:51 045    New package start : 1 -> 0
+2019-06-26 14:22:51 049    Package Complete, id: 8, FrameCount: 0
+2019-06-26 14:22:51 056    New package start : 1 -> 0
+2019-06-26 14:22:51 059    end task!
+2019-06-26 14:22:51 059    Package Complete, id: 9, FrameCount: 0
+2019-06-26 14:22:51 062    end task, 0 Frames run algorithm
+2019-06-26 14:22:51 066    New package start : 1 -> 0
+2019-06-26 14:22:51 068    MDWSCameraHandler----->Package End: 1.
+2019-06-26 14:22:51 071    Package Complete, id: 10, FrameCount: 0
+2019-06-26 14:22:51 076    Don't recognized this package,the barcode is: noread
+2019-06-26 14:22:51 082    New package start : 1 -> 0
+2019-06-26 14:22:51 085    Package Complete, id: 11, FrameCount: 0
+2019-06-26 14:22:51 117    New package start : 1 -> 0
+2019-06-26 14:22:51 123    Package Complete, id: 12, FrameCount: 0
+2019-06-26 14:22:51 132    New package start : 1 -> 0
+2019-06-26 14:22:51 135    Package Complete, id: 13, FrameCount: 0
+2019-06-26 14:22:51 141    New package start : 1 -> 0
+2019-06-26 14:22:51 145    Package Complete, id: 14, FrameCount: 0
+2019-06-26 14:22:51 152    New package start : 1 -> 0
+2019-06-26 14:22:51 158    Package Complete, id: 15, FrameCount: 0
+2019-06-26 14:22:51 166    New package start : 1 -> 0
+2019-06-26 14:22:51 172    Package Complete, id: 16, FrameCount: 0
+2019-06-26 14:22:51 186    New package start : 1 -> 0
+2019-06-26 14:22:51 194    Package Complete, id: 17, FrameCount: 0
+2019-06-26 14:22:51 203    New package start : 1 -> 0
+2019-06-26 14:22:51 209    Package Complete, id: 18, FrameCount: 0
+2019-06-26 14:22:51 219    Package Begin: 2.
+2019-06-26 14:22:51 219    New package start : 1 -> 0
+2019-06-26 14:22:51 233    Package Complete, id: 19, FrameCount: 0
+2019-06-26 14:22:51 241    New package start : 1 -> 0
+2019-06-26 14:22:51 245    Package Complete, id: 20, FrameCount: 0
+2019-06-26 14:22:51 251    New package start : 1 -> 0
+2019-06-26 14:22:51 255    Package Complete, id: 21, FrameCount: 0
+2019-06-26 14:22:51 263    New package start : 1 -> 0
+2019-06-26 14:22:51 267    Package Complete, id: 22, FrameCount: 0
+2019-06-26 14:22:51 273    end task!
+2019-06-26 14:22:51 273    New package start : 1 -> 0
+2019-06-26 14:22:51 275    end task, 0 Frames run algorithm
+2019-06-26 14:22:51 279    Package Complete, id: 23, FrameCount: 0
+2019-06-26 14:22:51 282    MDWSCameraHandler----->Package End: 2.
+2019-06-26 14:22:51 286    New package start : 1 -> 0
+2019-06-26 14:22:51 286    Don't recognized this package,the barcode is: noread
+2019-06-26 14:22:51 289    Package Complete, id: 24, FrameCount: 0
+2019-06-26 14:22:51 307    New package start : 1 -> 0
+2019-06-26 14:22:51 310    Package Complete, id: 25, FrameCount: 0
+2019-06-26 14:22:51 315    New package start : 1 -> 0
+2019-06-26 14:22:51 323    Package Complete, id: 26, FrameCount: 0
+2019-06-26 14:22:52 687    New package start : 1 -> 0
+2019-06-26 14:33:05 510    the package leave!!!
+2019-06-26 14:33:05 726    New package start : 1 -> 0
+2019-06-26 14:33:06 027    Package Begin: 1.
+2019-06-26 14:33:24 512    the package leave!!!
+2019-06-26 14:33:24 740    Package Complete, id: 1, FrameCount: 100
+2019-06-26 14:33:24 751    New package start : 1 -> 0
+2019-06-26 14:33:25 552    end task!
+2019-06-26 14:33:25 597    end task, 100 Frames run algorithm
+2019-06-26 14:33:25 605    MDWSCameraHandler----->Package End: 1.
+2019-06-26 14:33:47 003    Don't recognized this package,the barcode is: noread
+2019-06-26 14:34:10 856    Package Begin: 2.
+2019-06-26 14:34:18 505    the package leave!!!
+2019-06-26 14:34:18 824    Package Complete, id: 2, FrameCount: 100
+2019-06-26 14:34:19 041    New package start : 1 -> 0
+2019-06-26 14:34:21 442    end task!
+2019-06-26 14:34:21 541    end task, 100 Frames run algorithm
+2019-06-26 14:34:21 550    MDWSCameraHandler----->Package End: 2.
+2019-06-26 14:34:36 354    Don't recognized this package,the barcode is: noread
+2019-06-26 14:34:36 711    Package Begin: 3.
+2019-06-26 14:34:54 914    the package leave!!!
+2019-06-26 14:34:55 149    Package Complete, id: 3, FrameCount: 100
+2019-06-26 14:34:55 181    New package start : 1 -> 0
+2019-06-26 14:34:55 359    end task!
+2019-06-26 14:34:55 463    end task, 100 Frames run algorithm
+2019-06-26 14:34:55 473    MDWSCameraHandler----->Package End: 3.
+2019-06-26 14:35:01 042    Don't recognized this package,the barcode is: noread
+2019-06-26 14:36:03 264    the package leave!!!
+2019-06-26 14:36:03 475    New package start : 1 -> 0
+2019-06-26 14:36:03 720    Package Begin: 1.
+2019-06-26 14:37:57 470    the package leave!!!
+2019-06-26 14:37:57 740    Package Complete, id: 1, FrameCount: 100
+2019-06-26 14:37:57 852    end task!
+2019-06-26 14:37:57 964    end task, 100 Frames run algorithm
+2019-06-26 14:37:57 972    MDWSCameraHandler----->Package End: 1.
+2019-06-26 14:38:06 546    Don't recognized this package,the barcode is: noread
+2019-06-26 14:38:06 547    New package start : 1 -> 0
+2019-06-26 14:38:10 375    six cameras recognize:noread
+2019-06-26 14:38:10 398    MDWSCameraHandler----->this is a whole process ending!!!
+2019-06-26 14:38:10 670    Package Begin: 2.
+2019-06-26 14:39:28 979    the package leave!!!
+2019-06-26 14:39:29 212    New package start : 1 -> 0
+2019-06-26 14:39:29 473    Package Begin: 1.
+2019-06-26 14:44:21 855    the package leave!!!
+2019-06-26 14:44:22 432    New package start : 1 -> 0
+2019-06-26 14:44:22 598    Package Begin: 1.
+2019-06-26 14:46:31 045    the package leave!!!
+2019-06-26 14:46:31 281    New package start : 1 -> 0
+2019-06-26 14:46:31 476    Package Begin: 1.
+2019-06-26 14:47:43 667    the package leave!!!
+2019-06-26 14:47:43 884    Package Complete, id: 1, FrameCount: 100
+2019-06-26 14:47:43 950    New package start : 1 -> 0
+2019-06-26 14:47:44 018    MDWSCameraHandler----->Camera Camera MV-SUA2000M#0001-0017 recognize barcode:+.
+2019-06-26 14:47:44 027    MDWSCameraHandler----->Camera Camera MV-SUA2000M#0001-0017 recognize barcode:K.
+2019-06-26 14:47:44 037    end task!
+2019-06-26 14:47:44 176    end task, 100 Frames run algorithm
+2019-06-26 14:47:44 189    MDWSCameraHandler----->Package End: 1.
+2019-06-26 14:47:49 451    MDWSCameraHandler----->this is a multi-barcode 0 recognized barcode: +
+2019-06-26 14:47:49 467    MDWSCameraHandler----->this is a multi-barcode 1 recognized barcode: K
+2019-06-26 14:47:50 132    six cameras recognize:++K
+2019-06-26 14:47:50 140    MDWSCameraHandler----->this is a whole process ending!!!
+2019-06-26 14:47:50 295    Package Begin: 2.
+2019-06-26 14:59:55 808    the package leave!!!
+2019-06-26 14:59:57 386    New package start : 1 -> 0
+2019-06-26 14:59:57 633    Package Begin: 1.
+2019-06-26 15:00:06 017    the package leave!!!
+2019-06-26 15:00:06 222    Package Complete, id: 1, FrameCount: 81
+2019-06-26 15:00:06 266    end task!
+2019-06-26 15:00:06 274    end task, 81 Frames run algorithm
+2019-06-26 15:00:06 280    MDWSCameraHandler----->Package End: 1.
+2019-06-26 15:00:16 229    New package start : 1 -> 0
+e,the barcode is: noread
+2019-06-26 15:00:37 925    six cameras recognize:noread
+2019-06-26 15:00:37 960    MDWSCameraHandler----->this is a whole process ending!!!
+2019-06-26 15:00:40 124    Package Begin: 2.
+2019-06-26 15:42:56 090    the package leave!!!
+2019-06-26 15:42:56 542    New package start : 1 -> 0
+2019-06-26 15:42:56 730    Package Begin: 1.
+2019-06-26 15:42:59 132    the package leave!!!
+2019-06-26 15:42:59 338    Package Complete, id: 1, FrameCount: 25
+2019-06-26 15:42:59 382    end task!
+2019-06-26 15:42:59 392    end task, 25 Frames run algorithm
+2019-06-26 15:42:59 397    MDWSCameraHandler----->Package End: 1.
+2019-06-26 15:43:07 790    New package start : 1 -> 0
+e,the barcode is: noread
+2019-06-26 15:43:23 155    six cameras recognize:noread
+2019-06-26 15:43:23 164    MDWSCameraHandler----->this is a whole process ending!!!
+2019-06-26 15:43:23 367    Package Begin: 2.
+2019-06-26 15:44:00 592    the package leave!!!
+2019-06-26 15:44:01 076    Package Complete, id: 2, FrameCount: 100
+2019-06-26 15:44:01 227    MDWSCameraHandler----->Camera Camera MV-SUA2000M#0001-0017 recognize barcode:5.
+2019-06-26 15:44:01 231    MDWSCameraHandler----->Camera Camera MV-SUA2000M#0001-0017 recognize barcode:K.
+2019-06-26 15:44:01 237    end task!
+2019-06-26 15:44:01 373    end task, 100 Frames run algorithm
+2019-06-26 15:44:01 379    MDWSCameraHandler----->Package End: 2.
+2019-06-26 15:44:15 816    New package start : 1 -> 0
+2019-06-26 15:44:21 287    MDWSCameraHandler----->this is a multi-barcode 0 recognized barcode: 5
+2019-06-26 15:44:27 688    MDWSCameraHandler----->this is a multi-barcode 1 recognized barcode: K
+2019-06-26 15:44:43 141    six cameras recognize:5+K
+2019-06-26 15:44:43 149    MDWSCameraHandler----->this is a whole process ending!!!
+2019-06-26 15:44:45 546    Package Begin: 3.
+2019-06-26 16:21:22 640    the package leave!!!
+2019-06-26 16:21:23 133    New package start : 1 -> 0
+2019-06-26 16:21:23 346    Package Begin: 1.
+2019-06-26 16:21:24 818    the package leave!!!
+2019-06-26 16:21:25 024    Package Complete, id: 1, FrameCount: 32
+2019-06-26 16:21:25 158    end task!
+2019-06-26 16:21:25 166    end task, 32 Frames run algorithm
+2019-06-26 16:21:25 175    MDWSCameraHandler----->Package End: 1.
+2019-06-26 16:21:34 612    Don't recognized this package,the barcode is: noread
+2019-06-26 16:21:37 855    six cameras recognize:noread
+2019-06-26 16:21:37 867    MDWSCameraHandler----->this is a whole process ending!!!
+2019-06-26 16:21:37 982    Package Begin: 2.
+2019-06-26 18:37:20 520    New package start : 1 -> 0
+2019-06-26 18:37:20 578    New package start : 1 -> 0
+2019-06-26 18:37:20 589    Package Complete, id: 1, FrameCount: 0
+2019-06-26 18:37:20 598    New package start : 1 -> 0
+2019-06-26 18:37:20 604    Package Complete, id: 2, FrameCount: 0
+2019-06-26 18:37:20 615    New package start : 1 -> 0
+2019-06-26 18:37:20 621    Package Complete, id: 3, FrameCount: 0
+2019-06-26 18:37:20 633    New package start : 1 -> 0
+2019-06-26 18:37:20 639    Package Complete, id: 4, FrameCount: 0
+2019-06-26 18:37:20 650    New package start : 1 -> 0
+2019-06-26 18:37:20 656    Package Complete, id: 5, FrameCount: 0
+2019-06-26 18:37:20 667    New package start : 1 -> 0
+2019-06-26 18:37:20 667    Package Begin: 1.
+2019-06-26 18:37:20 673    Package Complete, id: 6, FrameCount: 0
+2019-06-26 18:37:20 685    New package start : 1 -> 0
+2019-06-26 18:37:20 702    Package Complete, id: 7, FrameCount: 0
+2019-06-26 18:37:20 710    New package start : 1 -> 0
+2019-06-26 18:37:20 715    Package Complete, id: 8, FrameCount: 0
+2019-06-26 18:37:20 723    New package start : 1 -> 0
+2019-06-26 18:37:20 729    Package Complete, id: 9, FrameCount: 0
+2019-06-26 18:37:20 729    end task!
+2019-06-26 18:37:20 736    New package start : 1 -> 0
+2019-06-26 18:37:20 737    end task, 0 Frames run algorithm
+2019-06-26 18:37:20 741    Package Complete, id: 10, FrameCount: 0
+2019-06-26 18:37:20 745    MDWSCameraHandler----->Package End: 1.
+2019-06-26 18:37:20 759    New package start : 1 -> 0
+2019-06-26 18:37:24 127    Don't recognized this package,the barcode is: noread
+2019-06-26 18:37:32 553    New package start : 1 -> 0
+2019-06-26 18:38:29 590    Package Complete, id: 12, FrameCount: 1
+2019-06-26 18:38:29 607    New package start : 1 -> 0
+2019-06-26 18:38:30 690    Package Complete, id: 13, FrameCount: 1
+2019-06-26 18:38:30 698    New package start : 1 -> 0
+2019-06-26 18:38:30 705    Package Complete, id: 14, FrameCount: 0
+2019-06-26 18:38:30 745    New package start : 1 -> 0
+2019-06-26 18:41:28 833    New package start : 1 -> 0
+2019-06-26 18:41:28 849    New package start : 1 -> 0
+2019-06-26 18:41:28 858    Package Complete, id: 1, FrameCount: 0
+2019-06-26 18:41:28 906    New package start : 1 -> 0
+2019-06-26 18:41:28 914    Package Complete, id: 2, FrameCount: 0
+2019-06-26 18:41:28 925    New package start : 1 -> 0
+2019-06-26 18:41:28 931    Package Complete, id: 3, FrameCount: 0
+2019-06-26 18:41:28 939    New package start : 1 -> 0
+2019-06-26 18:41:28 946    Package Complete, id: 4, FrameCount: 0
+2019-06-26 18:41:28 956    New package start : 1 -> 0
+2019-06-26 18:41:28 967    Package Complete, id: 5, FrameCount: 0
+2019-06-26 18:41:28 977    New package start : 1 -> 0
+2019-06-26 18:41:28 985    Package Begin: 1.
+2019-06-26 18:41:28 997    Package Complete, id: 6, FrameCount: 0
+2019-06-26 18:41:29 007    New package start : 1 -> 0
+2019-06-26 18:41:29 013    Package Complete, id: 7, FrameCount: 0
+2019-06-26 18:41:29 028    New package start : 1 -> 0
+2019-06-26 18:41:29 038    Package Complete, id: 8, FrameCount: 0
+2019-06-26 18:41:29 048    New package start : 1 -> 0
+2019-06-26 18:41:29 053    Package Complete, id: 9, FrameCount: 0
+2019-06-26 18:41:29 060    New package start : 1 -> 0
+2019-06-26 18:41:29 065    Package Complete, id: 10, FrameCount: 0
+2019-06-26 18:41:29 065    end task!
+2019-06-26 18:41:29 071    New package start : 1 -> 0
+2019-06-26 18:41:29 073    end task, 0 Frames run algorithm
+2019-06-26 18:41:29 077    Package Complete, id: 11, FrameCount: 0
+2019-06-26 18:41:29 082    MDWSCameraHandler----->Package End: 1.
+2019-06-26 18:41:29 089    New package start : 1 -> 0
+2019-06-26 18:41:30 885    Don't recognized this package,the barcode is: noread
+2019-06-26 18:41:31 457    New package start : 1 -> 0

@@ -1,0 +1,4 @@
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode\GWCamera\bin\Debug\GWCamera.dll
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode\GWCamera\bin\Debug\GWCamera.pdb
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode\GWCamera\obj\Debug\GWCamera.dll
+E:\WORK2019\六面扫码\1.Code\SixFaceScanCode\GWCamera\obj\Debug\GWCamera.pdb

@@ -1,0 +1,44 @@
+﻿<Window x:Class="SixFaceScanCode.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="贯微六面扫码" Height="500" Width="700" Loaded="Window_Loaded" Closing="Window_Closing">
+    <Grid x:Name="PaintCanvas" Margin="1,0,-1.4,0.4">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="8*"/>
+        </Grid.RowDefinitions>
+        <!--<StackPanel  Grid.Row="0" Orientation="Horizontal">
+            <Label Content="连接到的相机个数：" VerticalContentAlignment="Center" />
+            <Label x:Name="lab_cameraNum" VerticalContentAlignment="Center" />
+        </StackPanel>-->
+        <!--<Grid Grid.Row="2">
+            <StackPanel  Orientation="Horizontal">
+                <Label Content="线扫相机识别情况：" VerticalContentAlignment="Center" Background="AliceBlue"/>
+                <TextBox x:Name="txt_LineCameraRec" VerticalContentAlignment="Center" />
+            </StackPanel>
+        </Grid>-->
+        <Grid Grid.Row="2">
+            <ListView x:Name="listview" ItemsSource="{Binding}"  HorizontalContentAlignment="Center" >
+                <ListView.View>
+                    <GridView>
+                        <GridViewColumn Header="序号" Width="80"  DisplayMemberBinding="{Binding num}"/>
+                        <GridViewColumn Header="六面结果" Width="600"   DisplayMemberBinding="{Binding barcode}"/>
+                        <!--<GridViewColumn Header="底面结果" Width="200"   DisplayMemberBinding="{Binding lineCameraBarcode}"/>-->
+                    </GridView>
+                </ListView.View>
+            </ListView>
+        </Grid>
+        <!--<Grid Grid.Row="2">
+            <TextBlock x:Name="tb_info" TextWrapping="Wrap" TextAlignment="Left"/>
+        </Grid>-->
+        <Grid Grid.Row="1">
+            <Button x:Name="btn_save" Content="保存未识别图像" Click="btn_save_Click"/>
+        </Grid>
+        <Grid x:Name="ContentPanel"  Grid.Row="0">
+            <ScrollViewer VerticalScrollBarVisibility="Auto">
+                <TextBlock x:Name="tb_info" Grid.Row="0"  TextWrapping="Wrap" Text=""   Background="AliceBlue"/>
+            </ScrollViewer>
+        </Grid>
+    </Grid>
+</Window>

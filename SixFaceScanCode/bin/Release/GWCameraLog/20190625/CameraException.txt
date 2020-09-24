@@ -1,0 +1,456 @@
+2019-06-25 20:34:48 870    ProcessThread:System.ArgumentException: 参数无效。
+   在 System.Drawing.Bitmap..ctor(Int32 width, Int32 height, PixelFormat format)
+   在 GWCamera.MDWSCameraHandler.NewBitmapFromGrayData(Byte[] ImgData, Int32 w, Int32 h) 位置 e:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\MDWSCameraHandler.cs:行号 745
+   在 GWCamera.MDWSCameraHandler.ProcessThread() 位置 e:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\MDWSCameraHandler.cs:行号 697
+2019-06-25 20:34:49 057    ProcessThread:System.ArgumentException: 参数无效。
+   在 System.Drawing.Bitmap..ctor(Int32 width, Int32 height, PixelFormat format)
+   在 GWCamera.MDWSCameraHandler.NewBitmapFromGrayData(Byte[] ImgData, Int32 w, Int32 h) 位置 e:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\MDWSCameraHandler.cs:行号 745
+   在 GWCamera.MDWSCameraHandler.ProcessThread() 位置 e:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\MDWSCameraHandler.cs:行号 697
+2019-06-25 20:34:49 243    ProcessThread:System.ArgumentException: 参数无效。
+   在 System.Drawing.Bitmap..ctor(Int32 width, Int32 height, PixelFormat format)
+   在 GWCamera.MDWSCameraHandler.NewBitmapFromGrayData(Byte[] ImgData, Int32 w, Int32 h) 位置 e:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\MDWSCameraHandler.cs:行号 745
+   在 GWCamera.MDWSCameraHandler.ProcessThread() 位置 e:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\MDWSCameraHandler.cs:行号 697
+2019-06-25 20:34:49 430    ProcessThread:System.ArgumentException: 参数无效。
+   在 System.Drawing.Bitmap..ctor(Int32 width, Int32 height, PixelFormat format)
+   在 GWCamera.MDWSCameraHandler.NewBitmapFromGrayData(Byte[] ImgData, Int32 w, Int32 h) 位置 e:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\MDWSCameraHandler.cs:行号 745
+   在 GWCamera.MDWSCameraHandler.ProcessThread() 位置 e:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\MDWSCameraHandler.cs:行号 697
+2019-06-25 20:34:49 649    ProcessThread:System.ArgumentException: 参数无效。
+   在 System.Drawing.Bitmap..ctor(Int32 width, Int32 height, PixelFormat format)
+   在 GWCamera.MDWSCameraHandler.NewBitmapFromGrayData(Byte[] ImgData, Int32 w, Int32 h) 位置 e:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\MDWSCameraHandler.cs:行号 745
+   在 GWCamera.MDWSCameraHandler.ProcessThread() 位置 e:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\MDWSCameraHandler.cs:行号 697
+2019-06-25 20:34:49 821    ProcessThread:System.ArgumentException: 参数无效。
+   在 System.Drawing.Bitmap..ctor(Int32 width, Int32 height, PixelFormat format)
+   在 GWCamera.MDWSCameraHandler.NewBitmapFromGrayData(Byte[] ImgData, Int32 w, Int32 h) 位置 e:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\MDWSCameraHandler.cs:行号 745
+   在 GWCamera.MDWSCameraHandler.ProcessThread() 位置 e:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\MDWSCameraHandler.cs:行号 697
+2019-06-25 20:34:49 977    ProcessThread:System.ArgumentException: 参数无效。
+   在 System.Drawing.Bitmap..ctor(Int32 width, Int32 height, PixelFormat format)
+   在 GWCamera.MDWSCameraHandler.NewBitmapFromGrayData(Byte[] ImgData, Int32 w, Int32 h) 位置 e:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\MDWSCameraHandler.cs:行号 745
+   在 GWCamera.MDWSCameraHandler.ProcessThread() 位置 e:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\MDWSCameraHandler.cs:行号 697
+2019-06-25 20:34:50 149    ProcessThread:System.ArgumentException: 参数无效。
+   在 System.Drawing.Bitmap..ctor(Int32 width, Int32 height, PixelFormat format)
+   在 GWCamera.MDWSCameraHandler.NewBitmapFromGrayData(Byte[] ImgData, Int32 w, Int32 h) 位置 e:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\MDWSCameraHandler.cs:行号 745
+   在 GWCamera.MDWSCameraHandler.ProcessThread() 位置 e:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\MDWSCameraHandler.cs:行号 697
+2019-06-25 20:34:50 315    ProcessThread:System.ArgumentException: 参数无效。
+   在 System.Drawing.Bitmap..ctor(Int32 width, Int32 height, PixelFormat format)
+   在 GWCamera.MDWSCameraHandler.NewBitmapFromGrayData(Byte[] ImgData, Int32 w, Int32 h) 位置 e:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\MDWSCameraHandler.cs:行号 745
+   在 GWCamera.MDWSCameraHandler.ProcessThread() 位置 e:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\MDWSCameraHandler.cs:行号 697
+2019-06-25 20:34:50 471    ProcessThread:System.ArgumentException: 参数无效。
+   在 System.Drawing.Bitmap..ctor(Int32 width, Int32 height, PixelFormat format)
+   在 GWCamera.MDWSCameraHandler.NewBitmapFromGrayData(Byte[] ImgData, Int32 w, Int32 h) 位置 e:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\MDWSCameraHandler.cs:行号 745
+   在 GWCamera.MDWSCameraHandler.ProcessThread() 位置 e:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\MDWSCameraHandler.cs:行号 697
+2019-06-25 20:34:50 643    ProcessThread:System.ArgumentException: 参数无效。
+   在 System.Drawing.Bitmap..ctor(Int32 width, Int32 height, PixelFormat format)
+   在 GWCamera.MDWSCameraHandler.NewBitmapFromGrayData(Byte[] ImgData, Int32 w, Int32 h) 位置 e:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\MDWSCameraHandler.cs:行号 745
+   在 GWCamera.MDWSCameraHandler.ProcessThread() 位置 e:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\MDWSCameraHandler.cs:行号 697
+2019-06-25 20:34:50 814    ProcessThread:System.ArgumentException: 参数无效。
+   在 System.Drawing.Bitmap..ctor(Int32 width, Int32 height, PixelFormat format)
+   在 GWCamera.MDWSCameraHandler.NewBitmapFromGrayData(Byte[] ImgData, Int32 w, Int32 h) 位置 e:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\MDWSCameraHandler.cs:行号 745
+   在 GWCamera.MDWSCameraHandler.ProcessThread() 位置 e:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\MDWSCameraHandler.cs:行号 697
+2019-06-25 20:34:51 002    ProcessThread:System.ArgumentException: 参数无效。
+   在 System.Drawing.Bitmap..ctor(Int32 width, Int32 height, PixelFormat format)
+   在 GWCamera.MDWSCameraHandler.NewBitmapFromGrayData(Byte[] ImgData, Int32 w, Int32 h) 位置 e:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\MDWSCameraHandler.cs:行号 745
+   在 GWCamera.MDWSCameraHandler.ProcessThread() 位置 e:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\MDWSCameraHandler.cs:行号 697
+2019-06-25 20:34:51 189    ProcessThread:System.ArgumentException: 参数无效。
+   在 System.Drawing.Bitmap..ctor(Int32 width, Int32 height, PixelFormat format)
+   在 GWCamera.MDWSCameraHandler.NewBitmapFromGrayData(Byte[] ImgData, Int32 w, Int32 h) 位置 e:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\MDWSCameraHandler.cs:行号 745
+   在 GWCamera.MDWSCameraHandler.ProcessThread() 位置 e:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\MDWSCameraHandler.cs:行号 697
+2019-06-25 20:34:51 377    ProcessThread:System.ArgumentException: 参数无效。
+   在 System.Drawing.Bitmap..ctor(Int32 width, Int32 height, PixelFormat format)
+   在 GWCamera.MDWSCameraHandler.NewBitmapFromGrayData(Byte[] ImgData, Int32 w, Int32 h) 位置 e:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\MDWSCameraHandler.cs:行号 745
+   在 GWCamera.MDWSCameraHandler.ProcessThread() 位置 e:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\MDWSCameraHandler.cs:行号 697
+2019-06-25 20:34:51 549    ProcessThread:System.ArgumentException: 参数无效。
+   在 System.Drawing.Bitmap..ctor(Int32 width, Int32 height, PixelFormat format)
+   在 GWCamera.MDWSCameraHandler.NewBitmapFromGrayData(Byte[] ImgData, Int32 w, Int32 h) 位置 e:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\MDWSCameraHandler.cs:行号 745
+   在 GWCamera.MDWSCameraHandler.ProcessThread() 位置 e:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\MDWSCameraHandler.cs:行号 697
+2019-06-25 20:34:51 720    ProcessThread:System.ArgumentException: 参数无效。
+   在 System.Drawing.Bitmap..ctor(Int32 width, Int32 height, PixelFormat format)
+   在 GWCamera.MDWSCameraHandler.NewBitmapFromGrayData(Byte[] ImgData, Int32 w, Int32 h) 位置 e:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\MDWSCameraHandler.cs:行号 745
+   在 GWCamera.MDWSCameraHandler.ProcessThread() 位置 e:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\MDWSCameraHandler.cs:行号 697
+2019-06-25 20:34:51 861    ProcessThread:System.ArgumentException: 参数无效。
+   在 System.Drawing.Bitmap..ctor(Int32 width, Int32 height, PixelFormat format)
+   在 GWCamera.MDWSCameraHandler.NewBitmapFromGrayData(Byte[] ImgData, Int32 w, Int32 h) 位置 e:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\MDWSCameraHandler.cs:行号 745
+   在 GWCamera.MDWSCameraHandler.ProcessThread() 位置 e:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\MDWSCameraHandler.cs:行号 697
+2019-06-25 20:34:52 049    ProcessThread:System.ArgumentException: 参数无效。
+   在 System.Drawing.Bitmap..ctor(Int32 width, Int32 height, PixelFormat format)
+   在 GWCamera.MDWSCameraHandler.NewBitmapFromGrayData(Byte[] ImgData, Int32 w, Int32 h) 位置 e:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\MDWSCameraHandler.cs:行号 745
+   在 GWCamera.MDWSCameraHandler.ProcessThread() 位置 e:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\MDWSCameraHandler.cs:行号 697
+2019-06-25 20:34:52 205    ProcessThread:System.ArgumentException: 参数无效。
+   在 System.Drawing.Bitmap..ctor(Int32 width, Int32 height, PixelFormat format)
+   在 GWCamera.MDWSCameraHandler.NewBitmapFromGrayData(Byte[] ImgData, Int32 w, Int32 h) 位置 e:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\MDWSCameraHandler.cs:行号 745
+   在 GWCamera.MDWSCameraHandler.ProcessThread() 位置 e:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\MDWSCameraHandler.cs:行号 697
+2019-06-25 20:34:52 361    ProcessThread:System.ArgumentException: 参数无效。
+   在 System.Drawing.Bitmap..ctor(Int32 width, Int32 height, PixelFormat format)
+   在 GWCamera.MDWSCameraHandler.NewBitmapFromGrayData(Byte[] ImgData, Int32 w, Int32 h) 位置 e:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\MDWSCameraHandler.cs:行号 745
+   在 GWCamera.MDWSCameraHandler.ProcessThread() 位置 e:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\MDWSCameraHandler.cs:行号 697
+2019-06-25 20:34:52 533    ProcessThread:System.ArgumentException: 参数无效。
+   在 System.Drawing.Bitmap..ctor(Int32 width, Int32 height, PixelFormat format)
+   在 GWCamera.MDWSCameraHandler.NewBitmapFromGrayData(Byte[] ImgData, Int32 w, Int32 h) 位置 e:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\MDWSCameraHandler.cs:行号 745
+   在 GWCamera.MDWSCameraHandler.ProcessThread() 位置 e:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\MDWSCameraHandler.cs:行号 697
+2019-06-25 20:34:52 720    ProcessThread:System.ArgumentException: 参数无效。
+   在 System.Drawing.Bitmap..ctor(Int32 width, Int32 height, PixelFormat format)
+   在 GWCamera.MDWSCameraHandler.NewBitmapFromGrayData(Byte[] ImgData, Int32 w, Int32 h) 位置 e:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\MDWSCameraHandler.cs:行号 745
+   在 GWCamera.MDWSCameraHandler.ProcessThread() 位置 e:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\MDWSCameraHandler.cs:行号 697
+2019-06-25 20:34:52 876    ProcessThread:System.ArgumentException: 参数无效。
+   在 System.Drawing.Bitmap..ctor(Int32 width, Int32 height, PixelFormat format)
+   在 GWCamera.MDWSCameraHandler.NewBitmapFromGrayData(Byte[] ImgData, Int32 w, Int32 h) 位置 e:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\MDWSCameraHandler.cs:行号 745
+   在 GWCamera.MDWSCameraHandler.ProcessThread() 位置 e:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\MDWSCameraHandler.cs:行号 697
+2019-06-25 20:34:53 064    ProcessThread:System.ArgumentException: 参数无效。
+   在 System.Drawing.Bitmap..ctor(Int32 width, Int32 height, PixelFormat format)
+   在 GWCamera.MDWSCameraHandler.NewBitmapFromGrayData(Byte[] ImgData, Int32 w, Int32 h) 位置 e:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\MDWSCameraHandler.cs:行号 745
+   在 GWCamera.MDWSCameraHandler.ProcessThread() 位置 e:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\MDWSCameraHandler.cs:行号 697
+2019-06-25 20:34:53 226    ProcessThread:System.ArgumentException: 参数无效。
+   在 System.Drawing.Bitmap..ctor(Int32 width, Int32 height, PixelFormat format)
+   在 GWCamera.MDWSCameraHandler.NewBitmapFromGrayData(Byte[] ImgData, Int32 w, Int32 h) 位置 e:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\MDWSCameraHandler.cs:行号 745
+   在 GWCamera.MDWSCameraHandler.ProcessThread() 位置 e:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\MDWSCameraHandler.cs:行号 697
+2019-06-25 20:34:53 398    ProcessThread:System.ArgumentException: 参数无效。
+   在 System.Drawing.Bitmap..ctor(Int32 width, Int32 height, PixelFormat format)
+   在 GWCamera.MDWSCameraHandler.NewBitmapFromGrayData(Byte[] ImgData, Int32 w, Int32 h) 位置 e:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\MDWSCameraHandler.cs:行号 745
+   在 GWCamera.MDWSCameraHandler.ProcessThread() 位置 e:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\MDWSCameraHandler.cs:行号 697
+2019-06-25 20:34:53 601    ProcessThread:System.ArgumentException: 参数无效。
+   在 System.Drawing.Bitmap..ctor(Int32 width, Int32 height, PixelFormat format)
+   在 GWCamera.MDWSCameraHandler.NewBitmapFromGrayData(Byte[] ImgData, Int32 w, Int32 h) 位置 e:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\MDWSCameraHandler.cs:行号 745
+   在 GWCamera.MDWSCameraHandler.ProcessThread() 位置 e:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\MDWSCameraHandler.cs:行号 697
+2019-06-25 20:34:53 773    ProcessThread:System.ArgumentException: 参数无效。
+   在 System.Drawing.Bitmap..ctor(Int32 width, Int32 height, PixelFormat format)
+   在 GWCamera.MDWSCameraHandler.NewBitmapFromGrayData(Byte[] ImgData, Int32 w, Int32 h) 位置 e:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\MDWSCameraHandler.cs:行号 745
+   在 GWCamera.MDWSCameraHandler.ProcessThread() 位置 e:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\MDWSCameraHandler.cs:行号 697
+2019-06-25 20:34:53 929    ProcessThread:System.ArgumentException: 参数无效。
+   在 System.Drawing.Bitmap..ctor(Int32 width, Int32 height, PixelFormat format)
+   在 GWCamera.MDWSCameraHandler.NewBitmapFromGrayData(Byte[] ImgData, Int32 w, Int32 h) 位置 e:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\MDWSCameraHandler.cs:行号 745
+   在 GWCamera.MDWSCameraHandler.ProcessThread() 位置 e:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\MDWSCameraHandler.cs:行号 697
+2019-06-25 20:34:54 086    ProcessThread:System.ArgumentException: 参数无效。
+   在 System.Drawing.Bitmap..ctor(Int32 width, Int32 height, PixelFormat format)
+   在 GWCamera.MDWSCameraHandler.NewBitmapFromGrayData(Byte[] ImgData, Int32 w, Int32 h) 位置 e:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\MDWSCameraHandler.cs:行号 745
+   在 GWCamera.MDWSCameraHandler.ProcessThread() 位置 e:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\MDWSCameraHandler.cs:行号 697
+2019-06-25 20:34:54 273    ProcessThread:System.ArgumentException: 参数无效。
+   在 System.Drawing.Bitmap..ctor(Int32 width, Int32 height, PixelFormat format)
+   在 GWCamera.MDWSCameraHandler.NewBitmapFromGrayData(Byte[] ImgData, Int32 w, Int32 h) 位置 e:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\MDWSCameraHandler.cs:行号 745
+   在 GWCamera.MDWSCameraHandler.ProcessThread() 位置 e:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\MDWSCameraHandler.cs:行号 697
+2019-06-25 20:34:54 445    ProcessThread:System.ArgumentException: 参数无效。
+   在 System.Drawing.Bitmap..ctor(Int32 width, Int32 height, PixelFormat format)
+   在 GWCamera.MDWSCameraHandler.NewBitmapFromGrayData(Byte[] ImgData, Int32 w, Int32 h) 位置 e:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\MDWSCameraHandler.cs:行号 745
+   在 GWCamera.MDWSCameraHandler.ProcessThread() 位置 e:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\MDWSCameraHandler.cs:行号 697
+2019-06-25 20:34:54 617    ProcessThread:System.ArgumentException: 参数无效。
+   在 System.Drawing.Bitmap..ctor(Int32 width, Int32 height, PixelFormat format)
+   在 GWCamera.MDWSCameraHandler.NewBitmapFromGrayData(Byte[] ImgData, Int32 w, Int32 h) 位置 e:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\MDWSCameraHandler.cs:行号 745
+   在 GWCamera.MDWSCameraHandler.ProcessThread() 位置 e:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\MDWSCameraHandler.cs:行号 697
+2019-06-25 20:34:54 773    ProcessThread:System.ArgumentException: 参数无效。
+   在 System.Drawing.Bitmap..ctor(Int32 width, Int32 height, PixelFormat format)
+   在 GWCamera.MDWSCameraHandler.NewBitmapFromGrayData(Byte[] ImgData, Int32 w, Int32 h) 位置 e:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\MDWSCameraHandler.cs:行号 745
+   在 GWCamera.MDWSCameraHandler.ProcessThread() 位置 e:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\MDWSCameraHandler.cs:行号 697
+2019-06-25 20:34:54 945    ProcessThread:System.ArgumentException: 参数无效。
+   在 System.Drawing.Bitmap..ctor(Int32 width, Int32 height, PixelFormat format)
+   在 GWCamera.MDWSCameraHandler.NewBitmapFromGrayData(Byte[] ImgData, Int32 w, Int32 h) 位置 e:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\MDWSCameraHandler.cs:行号 745
+   在 GWCamera.MDWSCameraHandler.ProcessThread() 位置 e:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\MDWSCameraHandler.cs:行号 697
+2019-06-25 20:34:55 101    ProcessThread:System.ArgumentException: 参数无效。
+   在 System.Drawing.Bitmap..ctor(Int32 width, Int32 height, PixelFormat format)
+   在 GWCamera.MDWSCameraHandler.NewBitmapFromGrayData(Byte[] ImgData, Int32 w, Int32 h) 位置 e:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\MDWSCameraHandler.cs:行号 745
+   在 GWCamera.MDWSCameraHandler.ProcessThread() 位置 e:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\MDWSCameraHandler.cs:行号 697
+2019-06-25 20:34:55 242    ProcessThread:System.ArgumentException: 参数无效。
+   在 System.Drawing.Bitmap..ctor(Int32 width, Int32 height, PixelFormat format)
+   在 GWCamera.MDWSCameraHandler.NewBitmapFromGrayData(Byte[] ImgData, Int32 w, Int32 h) 位置 e:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\MDWSCameraHandler.cs:行号 745
+   在 GWCamera.MDWSCameraHandler.ProcessThread() 位置 e:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\MDWSCameraHandler.cs:行号 697
+2019-06-25 20:34:55 429    ProcessThread:System.ArgumentException: 参数无效。
+   在 System.Drawing.Bitmap..ctor(Int32 width, Int32 height, PixelFormat format)
+   在 GWCamera.MDWSCameraHandler.NewBitmapFromGrayData(Byte[] ImgData, Int32 w, Int32 h) 位置 e:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\MDWSCameraHandler.cs:行号 745
+   在 GWCamera.MDWSCameraHandler.ProcessThread() 位置 e:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\MDWSCameraHandler.cs:行号 697
+2019-06-25 20:34:55 601    ProcessThread:System.ArgumentException: 参数无效。
+   在 System.Drawing.Bitmap..ctor(Int32 width, Int32 height, PixelFormat format)
+   在 GWCamera.MDWSCameraHandler.NewBitmapFromGrayData(Byte[] ImgData, Int32 w, Int32 h) 位置 e:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\MDWSCameraHandler.cs:行号 745
+   在 GWCamera.MDWSCameraHandler.ProcessThread() 位置 e:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\MDWSCameraHandler.cs:行号 697
+2019-06-25 20:34:55 773    ProcessThread:System.ArgumentException: 参数无效。
+   在 System.Drawing.Bitmap..ctor(Int32 width, Int32 height, PixelFormat format)
+   在 GWCamera.MDWSCameraHandler.NewBitmapFromGrayData(Byte[] ImgData, Int32 w, Int32 h) 位置 e:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\MDWSCameraHandler.cs:行号 745
+   在 GWCamera.MDWSCameraHandler.ProcessThread() 位置 e:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\MDWSCameraHandler.cs:行号 697
+2019-06-25 20:34:55 945    ProcessThread:System.ArgumentException: 参数无效。
+   在 System.Drawing.Bitmap..ctor(Int32 width, Int32 height, PixelFormat format)
+   在 GWCamera.MDWSCameraHandler.NewBitmapFromGrayData(Byte[] ImgData, Int32 w, Int32 h) 位置 e:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\MDWSCameraHandler.cs:行号 745
+   在 GWCamera.MDWSCameraHandler.ProcessThread() 位置 e:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\MDWSCameraHandler.cs:行号 697
+2019-06-25 20:34:56 116    ProcessThread:System.ArgumentException: 参数无效。
+   在 System.Drawing.Bitmap..ctor(Int32 width, Int32 height, PixelFormat format)
+   在 GWCamera.MDWSCameraHandler.NewBitmapFromGrayData(Byte[] ImgData, Int32 w, Int32 h) 位置 e:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\MDWSCameraHandler.cs:行号 745
+   在 GWCamera.MDWSCameraHandler.ProcessThread() 位置 e:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\MDWSCameraHandler.cs:行号 697
+2019-06-25 20:34:56 273    ProcessThread:System.ArgumentException: 参数无效。
+   在 System.Drawing.Bitmap..ctor(Int32 width, Int32 height, PixelFormat format)
+   在 GWCamera.MDWSCameraHandler.NewBitmapFromGrayData(Byte[] ImgData, Int32 w, Int32 h) 位置 e:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\MDWSCameraHandler.cs:行号 745
+   在 GWCamera.MDWSCameraHandler.ProcessThread() 位置 e:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\MDWSCameraHandler.cs:行号 697
+2019-06-25 20:34:56 414    ProcessThread:System.ArgumentException: 参数无效。
+   在 System.Drawing.Bitmap..ctor(Int32 width, Int32 height, PixelFormat format)
+   在 GWCamera.MDWSCameraHandler.NewBitmapFromGrayData(Byte[] ImgData, Int32 w, Int32 h) 位置 e:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\MDWSCameraHandler.cs:行号 745
+   在 GWCamera.MDWSCameraHandler.ProcessThread() 位置 e:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\MDWSCameraHandler.cs:行号 697
+2019-06-25 20:34:56 617    ProcessThread:System.ArgumentException: 参数无效。
+   在 System.Drawing.Bitmap..ctor(Int32 width, Int32 height, PixelFormat format)
+   在 GWCamera.MDWSCameraHandler.NewBitmapFromGrayData(Byte[] ImgData, Int32 w, Int32 h) 位置 e:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\MDWSCameraHandler.cs:行号 745
+   在 GWCamera.MDWSCameraHandler.ProcessThread() 位置 e:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\MDWSCameraHandler.cs:行号 697
+2019-06-25 20:34:56 820    ProcessThread:System.ArgumentException: 参数无效。
+   在 System.Drawing.Bitmap..ctor(Int32 width, Int32 height, PixelFormat format)
+   在 GWCamera.MDWSCameraHandler.NewBitmapFromGrayData(Byte[] ImgData, Int32 w, Int32 h) 位置 e:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\MDWSCameraHandler.cs:行号 745
+   在 GWCamera.MDWSCameraHandler.ProcessThread() 位置 e:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\MDWSCameraHandler.cs:行号 697
+2019-06-25 20:34:57 007    ProcessThread:System.ArgumentException: 参数无效。
+   在 System.Drawing.Bitmap..ctor(Int32 width, Int32 height, PixelFormat format)
+   在 GWCamera.MDWSCameraHandler.NewBitmapFromGrayData(Byte[] ImgData, Int32 w, Int32 h) 位置 e:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\MDWSCameraHandler.cs:行号 745
+   在 GWCamera.MDWSCameraHandler.ProcessThread() 位置 e:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\MDWSCameraHandler.cs:行号 697
+2019-06-25 20:34:57 179    ProcessThread:System.ArgumentException: 参数无效。
+   在 System.Drawing.Bitmap..ctor(Int32 width, Int32 height, PixelFormat format)
+   在 GWCamera.MDWSCameraHandler.NewBitmapFromGrayData(Byte[] ImgData, Int32 w, Int32 h) 位置 e:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\MDWSCameraHandler.cs:行号 745
+   在 GWCamera.MDWSCameraHandler.ProcessThread() 位置 e:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\MDWSCameraHandler.cs:行号 697
+2019-06-25 20:34:57 367    ProcessThread:System.ArgumentException: 参数无效。
+   在 System.Drawing.Bitmap..ctor(Int32 width, Int32 height, PixelFormat format)
+   在 GWCamera.MDWSCameraHandler.NewBitmapFromGrayData(Byte[] ImgData, Int32 w, Int32 h) 位置 e:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\MDWSCameraHandler.cs:行号 745
+   在 GWCamera.MDWSCameraHandler.ProcessThread() 位置 e:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\MDWSCameraHandler.cs:行号 697
+2019-06-25 20:34:57 585    ProcessThread:System.ArgumentException: 参数无效。
+   在 System.Drawing.Bitmap..ctor(Int32 width, Int32 height, PixelFormat format)
+   在 GWCamera.MDWSCameraHandler.NewBitmapFromGrayData(Byte[] ImgData, Int32 w, Int32 h) 位置 e:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\MDWSCameraHandler.cs:行号 745
+   在 GWCamera.MDWSCameraHandler.ProcessThread() 位置 e:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\MDWSCameraHandler.cs:行号 697
+2019-06-25 20:34:57 788    ProcessThread:System.ArgumentException: 参数无效。
+   在 System.Drawing.Bitmap..ctor(Int32 width, Int32 height, PixelFormat format)
+   在 GWCamera.MDWSCameraHandler.NewBitmapFromGrayData(Byte[] ImgData, Int32 w, Int32 h) 位置 e:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\MDWSCameraHandler.cs:行号 745
+   在 GWCamera.MDWSCameraHandler.ProcessThread() 位置 e:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\MDWSCameraHandler.cs:行号 697
+2019-06-25 20:34:58 023    ProcessThread:System.ArgumentException: 参数无效。
+   在 System.Drawing.Bitmap..ctor(Int32 width, Int32 height, PixelFormat format)
+   在 GWCamera.MDWSCameraHandler.NewBitmapFromGrayData(Byte[] ImgData, Int32 w, Int32 h) 位置 e:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\MDWSCameraHandler.cs:行号 745
+   在 GWCamera.MDWSCameraHandler.ProcessThread() 位置 e:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\MDWSCameraHandler.cs:行号 697
+2019-06-25 20:34:58 257    ProcessThread:System.ArgumentException: 参数无效。
+   在 System.Drawing.Bitmap..ctor(Int32 width, Int32 height, PixelFormat format)
+   在 GWCamera.MDWSCameraHandler.NewBitmapFromGrayData(Byte[] ImgData, Int32 w, Int32 h) 位置 e:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\MDWSCameraHandler.cs:行号 745
+   在 GWCamera.MDWSCameraHandler.ProcessThread() 位置 e:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\MDWSCameraHandler.cs:行号 697
+2019-06-25 20:34:58 444    ProcessThread:System.ArgumentException: 参数无效。
+   在 System.Drawing.Bitmap..ctor(Int32 width, Int32 height, PixelFormat format)
+   在 GWCamera.MDWSCameraHandler.NewBitmapFromGrayData(Byte[] ImgData, Int32 w, Int32 h) 位置 e:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\MDWSCameraHandler.cs:行号 745
+   在 GWCamera.MDWSCameraHandler.ProcessThread() 位置 e:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\MDWSCameraHandler.cs:行号 697
+2019-06-25 20:34:58 616    ProcessThread:System.ArgumentException: 参数无效。
+   在 System.Drawing.Bitmap..ctor(Int32 width, Int32 height, PixelFormat format)
+   在 GWCamera.MDWSCameraHandler.NewBitmapFromGrayData(Byte[] ImgData, Int32 w, Int32 h) 位置 e:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\MDWSCameraHandler.cs:行号 745
+   在 GWCamera.MDWSCameraHandler.ProcessThread() 位置 e:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\MDWSCameraHandler.cs:行号 697
+2019-06-25 20:34:58 819    ProcessThread:System.ArgumentException: 参数无效。
+   在 System.Drawing.Bitmap..ctor(Int32 width, Int32 height, PixelFormat format)
+   在 GWCamera.MDWSCameraHandler.NewBitmapFromGrayData(Byte[] ImgData, Int32 w, Int32 h) 位置 e:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\MDWSCameraHandler.cs:行号 745
+   在 GWCamera.MDWSCameraHandler.ProcessThread() 位置 e:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\MDWSCameraHandler.cs:行号 697
+2019-06-25 20:34:59 007    ProcessThread:System.ArgumentException: 参数无效。
+   在 System.Drawing.Bitmap..ctor(Int32 width, Int32 height, PixelFormat format)
+   在 GWCamera.MDWSCameraHandler.NewBitmapFromGrayData(Byte[] ImgData, Int32 w, Int32 h) 位置 e:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\MDWSCameraHandler.cs:行号 745
+   在 GWCamera.MDWSCameraHandler.ProcessThread() 位置 e:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\MDWSCameraHandler.cs:行号 697
+2019-06-25 20:34:59 226    ProcessThread:System.ArgumentException: 参数无效。
+   在 System.Drawing.Bitmap..ctor(Int32 width, Int32 height, PixelFormat format)
+   在 GWCamera.MDWSCameraHandler.NewBitmapFromGrayData(Byte[] ImgData, Int32 w, Int32 h) 位置 e:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\MDWSCameraHandler.cs:行号 745
+   在 GWCamera.MDWSCameraHandler.ProcessThread() 位置 e:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\MDWSCameraHandler.cs:行号 697
+2019-06-25 20:34:59 382    ProcessThread:System.ArgumentException: 参数无效。
+   在 System.Drawing.Bitmap..ctor(Int32 width, Int32 height, PixelFormat format)
+   在 GWCamera.MDWSCameraHandler.NewBitmapFromGrayData(Byte[] ImgData, Int32 w, Int32 h) 位置 e:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\MDWSCameraHandler.cs:行号 745
+   在 GWCamera.MDWSCameraHandler.ProcessThread() 位置 e:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\MDWSCameraHandler.cs:行号 697
+2019-06-25 20:34:59 569    ProcessThread:System.ArgumentException: 参数无效。
+   在 System.Drawing.Bitmap..ctor(Int32 width, Int32 height, PixelFormat format)
+   在 GWCamera.MDWSCameraHandler.NewBitmapFromGrayData(Byte[] ImgData, Int32 w, Int32 h) 位置 e:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\MDWSCameraHandler.cs:行号 745
+   在 GWCamera.MDWSCameraHandler.ProcessThread() 位置 e:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\MDWSCameraHandler.cs:行号 697
+2019-06-25 20:34:59 741    ProcessThread:System.ArgumentException: 参数无效。
+   在 System.Drawing.Bitmap..ctor(Int32 width, Int32 height, PixelFormat format)
+   在 GWCamera.MDWSCameraHandler.NewBitmapFromGrayData(Byte[] ImgData, Int32 w, Int32 h) 位置 e:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\MDWSCameraHandler.cs:行号 745
+   在 GWCamera.MDWSCameraHandler.ProcessThread() 位置 e:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\MDWSCameraHandler.cs:行号 697
+2019-06-25 20:34:59 897    ProcessThread:System.ArgumentException: 参数无效。
+   在 System.Drawing.Bitmap..ctor(Int32 width, Int32 height, PixelFormat format)
+   在 GWCamera.MDWSCameraHandler.NewBitmapFromGrayData(Byte[] ImgData, Int32 w, Int32 h) 位置 e:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\MDWSCameraHandler.cs:行号 745
+   在 GWCamera.MDWSCameraHandler.ProcessThread() 位置 e:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\MDWSCameraHandler.cs:行号 697
+2019-06-25 20:35:00 085    ProcessThread:System.ArgumentException: 参数无效。
+   在 System.Drawing.Bitmap..ctor(Int32 width, Int32 height, PixelFormat format)
+   在 GWCamera.MDWSCameraHandler.NewBitmapFromGrayData(Byte[] ImgData, Int32 w, Int32 h) 位置 e:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\MDWSCameraHandler.cs:行号 745
+   在 GWCamera.MDWSCameraHandler.ProcessThread() 位置 e:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\MDWSCameraHandler.cs:行号 697
+2019-06-25 20:35:00 226    ProcessThread:System.ArgumentException: 参数无效。
+   在 System.Drawing.Bitmap..ctor(Int32 width, Int32 height, PixelFormat format)
+   在 GWCamera.MDWSCameraHandler.NewBitmapFromGrayData(Byte[] ImgData, Int32 w, Int32 h) 位置 e:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\MDWSCameraHandler.cs:行号 745
+   在 GWCamera.MDWSCameraHandler.ProcessThread() 位置 e:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\MDWSCameraHandler.cs:行号 697
+2019-06-25 20:35:00 398    ProcessThread:System.ArgumentException: 参数无效。
+   在 System.Drawing.Bitmap..ctor(Int32 width, Int32 height, PixelFormat format)
+   在 GWCamera.MDWSCameraHandler.NewBitmapFromGrayData(Byte[] ImgData, Int32 w, Int32 h) 位置 e:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\MDWSCameraHandler.cs:行号 745
+   在 GWCamera.MDWSCameraHandler.ProcessThread() 位置 e:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\MDWSCameraHandler.cs:行号 697
+2019-06-25 20:35:00 585    ProcessThread:System.ArgumentException: 参数无效。
+   在 System.Drawing.Bitmap..ctor(Int32 width, Int32 height, PixelFormat format)
+   在 GWCamera.MDWSCameraHandler.NewBitmapFromGrayData(Byte[] ImgData, Int32 w, Int32 h) 位置 e:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\MDWSCameraHandler.cs:行号 745
+   在 GWCamera.MDWSCameraHandler.ProcessThread() 位置 e:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\MDWSCameraHandler.cs:行号 697
+2019-06-25 20:35:00 742    ProcessThread:System.ArgumentException: 参数无效。
+   在 System.Drawing.Bitmap..ctor(Int32 width, Int32 height, PixelFormat format)
+   在 GWCamera.MDWSCameraHandler.NewBitmapFromGrayData(Byte[] ImgData, Int32 w, Int32 h) 位置 e:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\MDWSCameraHandler.cs:行号 745
+   在 GWCamera.MDWSCameraHandler.ProcessThread() 位置 e:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\MDWSCameraHandler.cs:行号 697
+2019-06-25 20:35:00 914    ProcessThread:System.ArgumentException: 参数无效。
+   在 System.Drawing.Bitmap..ctor(Int32 width, Int32 height, PixelFormat format)
+   在 GWCamera.MDWSCameraHandler.NewBitmapFromGrayData(Byte[] ImgData, Int32 w, Int32 h) 位置 e:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\MDWSCameraHandler.cs:行号 745
+   在 GWCamera.MDWSCameraHandler.ProcessThread() 位置 e:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\MDWSCameraHandler.cs:行号 697
+2019-06-25 20:35:01 085    ProcessThread:System.ArgumentException: 参数无效。
+   在 System.Drawing.Bitmap..ctor(Int32 width, Int32 height, PixelFormat format)
+   在 GWCamera.MDWSCameraHandler.NewBitmapFromGrayData(Byte[] ImgData, Int32 w, Int32 h) 位置 e:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\MDWSCameraHandler.cs:行号 745
+   在 GWCamera.MDWSCameraHandler.ProcessThread() 位置 e:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\MDWSCameraHandler.cs:行号 697
+2019-06-25 20:35:01 273    ProcessThread:System.ArgumentException: 参数无效。
+   在 System.Drawing.Bitmap..ctor(Int32 width, Int32 height, PixelFormat format)
+   在 GWCamera.MDWSCameraHandler.NewBitmapFromGrayData(Byte[] ImgData, Int32 w, Int32 h) 位置 e:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\MDWSCameraHandler.cs:行号 745
+   在 GWCamera.MDWSCameraHandler.ProcessThread() 位置 e:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\MDWSCameraHandler.cs:行号 697
+2019-06-25 20:35:01 429    ProcessThread:System.ArgumentException: 参数无效。
+   在 System.Drawing.Bitmap..ctor(Int32 width, Int32 height, PixelFormat format)
+   在 GWCamera.MDWSCameraHandler.NewBitmapFromGrayData(Byte[] ImgData, Int32 w, Int32 h) 位置 e:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\MDWSCameraHandler.cs:行号 745
+   在 GWCamera.MDWSCameraHandler.ProcessThread() 位置 e:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\MDWSCameraHandler.cs:行号 697
+2019-06-25 20:35:01 616    ProcessThread:System.ArgumentException: 参数无效。
+   在 System.Drawing.Bitmap..ctor(Int32 width, Int32 height, PixelFormat format)
+   在 GWCamera.MDWSCameraHandler.NewBitmapFromGrayData(Byte[] ImgData, Int32 w, Int32 h) 位置 e:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\MDWSCameraHandler.cs:行号 745
+   在 GWCamera.MDWSCameraHandler.ProcessThread() 位置 e:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\MDWSCameraHandler.cs:行号 697
+2019-06-25 20:35:01 819    ProcessThread:System.ArgumentException: 参数无效。
+   在 System.Drawing.Bitmap..ctor(Int32 width, Int32 height, PixelFormat format)
+   在 GWCamera.MDWSCameraHandler.NewBitmapFromGrayData(Byte[] ImgData, Int32 w, Int32 h) 位置 e:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\MDWSCameraHandler.cs:行号 745
+   在 GWCamera.MDWSCameraHandler.ProcessThread() 位置 e:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\MDWSCameraHandler.cs:行号 697
+2019-06-25 20:35:01 976    ProcessThread:System.ArgumentException: 参数无效。
+   在 System.Drawing.Bitmap..ctor(Int32 width, Int32 height, PixelFormat format)
+   在 GWCamera.MDWSCameraHandler.NewBitmapFromGrayData(Byte[] ImgData, Int32 w, Int32 h) 位置 e:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\MDWSCameraHandler.cs:行号 745
+   在 GWCamera.MDWSCameraHandler.ProcessThread() 位置 e:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\MDWSCameraHandler.cs:行号 697
+2019-06-25 20:35:02 179    ProcessThread:System.ArgumentException: 参数无效。
+   在 System.Drawing.Bitmap..ctor(Int32 width, Int32 height, PixelFormat format)
+   在 GWCamera.MDWSCameraHandler.NewBitmapFromGrayData(Byte[] ImgData, Int32 w, Int32 h) 位置 e:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\MDWSCameraHandler.cs:行号 745
+   在 GWCamera.MDWSCameraHandler.ProcessThread() 位置 e:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\MDWSCameraHandler.cs:行号 697
+2019-06-25 20:35:02 350    ProcessThread:System.ArgumentException: 参数无效。
+   在 System.Drawing.Bitmap..ctor(Int32 width, Int32 height, PixelFormat format)
+   在 GWCamera.MDWSCameraHandler.NewBitmapFromGrayData(Byte[] ImgData, Int32 w, Int32 h) 位置 e:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\MDWSCameraHandler.cs:行号 745
+   在 GWCamera.MDWSCameraHandler.ProcessThread() 位置 e:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\MDWSCameraHandler.cs:行号 697
+2019-06-25 20:35:02 584    ProcessThread:System.ArgumentException: 参数无效。
+   在 System.Drawing.Bitmap..ctor(Int32 width, Int32 height, PixelFormat format)
+   在 GWCamera.MDWSCameraHandler.NewBitmapFromGrayData(Byte[] ImgData, Int32 w, Int32 h) 位置 e:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\MDWSCameraHandler.cs:行号 745
+   在 GWCamera.MDWSCameraHandler.ProcessThread() 位置 e:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\MDWSCameraHandler.cs:行号 697
+2019-06-25 20:35:02 787    ProcessThread:System.ArgumentException: 参数无效。
+   在 System.Drawing.Bitmap..ctor(Int32 width, Int32 height, PixelFormat format)
+   在 GWCamera.MDWSCameraHandler.NewBitmapFromGrayData(Byte[] ImgData, Int32 w, Int32 h) 位置 e:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\MDWSCameraHandler.cs:行号 745
+   在 GWCamera.MDWSCameraHandler.ProcessThread() 位置 e:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\MDWSCameraHandler.cs:行号 697
+2019-06-25 20:35:02 975    ProcessThread:System.ArgumentException: 参数无效。
+   在 System.Drawing.Bitmap..ctor(Int32 width, Int32 height, PixelFormat format)
+   在 GWCamera.MDWSCameraHandler.NewBitmapFromGrayData(Byte[] ImgData, Int32 w, Int32 h) 位置 e:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\MDWSCameraHandler.cs:行号 745
+   在 GWCamera.MDWSCameraHandler.ProcessThread() 位置 e:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\MDWSCameraHandler.cs:行号 697
+2019-06-25 20:35:03 147    ProcessThread:System.ArgumentException: 参数无效。
+   在 System.Drawing.Bitmap..ctor(Int32 width, Int32 height, PixelFormat format)
+   在 GWCamera.MDWSCameraHandler.NewBitmapFromGrayData(Byte[] ImgData, Int32 w, Int32 h) 位置 e:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\MDWSCameraHandler.cs:行号 745
+   在 GWCamera.MDWSCameraHandler.ProcessThread() 位置 e:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\MDWSCameraHandler.cs:行号 697
+2019-06-25 20:35:03 303    ProcessThread:System.ArgumentException: 参数无效。
+   在 System.Drawing.Bitmap..ctor(Int32 width, Int32 height, PixelFormat format)
+   在 GWCamera.MDWSCameraHandler.NewBitmapFromGrayData(Byte[] ImgData, Int32 w, Int32 h) 位置 e:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\MDWSCameraHandler.cs:行号 745
+   在 GWCamera.MDWSCameraHandler.ProcessThread() 位置 e:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\MDWSCameraHandler.cs:行号 697
+2019-06-25 20:35:03 537    ProcessThread:System.ArgumentException: 参数无效。
+   在 System.Drawing.Bitmap..ctor(Int32 width, Int32 height, PixelFormat format)
+   在 GWCamera.MDWSCameraHandler.NewBitmapFromGrayData(Byte[] ImgData, Int32 w, Int32 h) 位置 e:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\MDWSCameraHandler.cs:行号 745
+   在 GWCamera.MDWSCameraHandler.ProcessThread() 位置 e:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\MDWSCameraHandler.cs:行号 697
+2019-06-25 20:35:03 756    ProcessThread:System.ArgumentException: 参数无效。
+   在 System.Drawing.Bitmap..ctor(Int32 width, Int32 height, PixelFormat format)
+   在 GWCamera.MDWSCameraHandler.NewBitmapFromGrayData(Byte[] ImgData, Int32 w, Int32 h) 位置 e:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\MDWSCameraHandler.cs:行号 745
+   在 GWCamera.MDWSCameraHandler.ProcessThread() 位置 e:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\MDWSCameraHandler.cs:行号 697
+2019-06-25 20:35:04 037    ProcessThread:System.ArgumentException: 参数无效。
+   在 System.Drawing.Bitmap..ctor(Int32 width, Int32 height, PixelFormat format)
+   在 GWCamera.MDWSCameraHandler.NewBitmapFromGrayData(Byte[] ImgData, Int32 w, Int32 h) 位置 e:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\MDWSCameraHandler.cs:行号 745
+   在 GWCamera.MDWSCameraHandler.ProcessThread() 位置 e:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\MDWSCameraHandler.cs:行号 697
+2019-06-25 20:35:04 240    ProcessThread:System.ArgumentException: 参数无效。
+   在 System.Drawing.Bitmap..ctor(Int32 width, Int32 height, PixelFormat format)
+   在 GWCamera.MDWSCameraHandler.NewBitmapFromGrayData(Byte[] ImgData, Int32 w, Int32 h) 位置 e:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\MDWSCameraHandler.cs:行号 745
+   在 GWCamera.MDWSCameraHandler.ProcessThread() 位置 e:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\MDWSCameraHandler.cs:行号 697
+2019-06-25 20:35:04 428    ProcessThread:System.ArgumentException: 参数无效。
+   在 System.Drawing.Bitmap..ctor(Int32 width, Int32 height, PixelFormat format)
+   在 GWCamera.MDWSCameraHandler.NewBitmapFromGrayData(Byte[] ImgData, Int32 w, Int32 h) 位置 e:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\MDWSCameraHandler.cs:行号 745
+   在 GWCamera.MDWSCameraHandler.ProcessThread() 位置 e:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\MDWSCameraHandler.cs:行号 697
+2019-06-25 20:35:04 615    ProcessThread:System.ArgumentException: 参数无效。
+   在 System.Drawing.Bitmap..ctor(Int32 width, Int32 height, PixelFormat format)
+   在 GWCamera.MDWSCameraHandler.NewBitmapFromGrayData(Byte[] ImgData, Int32 w, Int32 h) 位置 e:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\MDWSCameraHandler.cs:行号 745
+   在 GWCamera.MDWSCameraHandler.ProcessThread() 位置 e:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\MDWSCameraHandler.cs:行号 697
+2019-06-25 20:35:04 943    ProcessThread:System.ArgumentException: 参数无效。
+   在 System.Drawing.Bitmap..ctor(Int32 width, Int32 height, PixelFormat format)
+   在 GWCamera.MDWSCameraHandler.NewBitmapFromGrayData(Byte[] ImgData, Int32 w, Int32 h) 位置 e:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\MDWSCameraHandler.cs:行号 745
+   在 GWCamera.MDWSCameraHandler.ProcessThread() 位置 e:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\MDWSCameraHandler.cs:行号 697
+2019-06-25 20:35:05 240    ProcessThread:System.ArgumentException: 参数无效。
+   在 System.Drawing.Bitmap..ctor(Int32 width, Int32 height, PixelFormat format)
+   在 GWCamera.MDWSCameraHandler.NewBitmapFromGrayData(Byte[] ImgData, Int32 w, Int32 h) 位置 e:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\MDWSCameraHandler.cs:行号 745
+   在 GWCamera.MDWSCameraHandler.ProcessThread() 位置 e:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\MDWSCameraHandler.cs:行号 697
+2019-06-25 20:35:05 584    ProcessThread:System.ArgumentException: 参数无效。
+   在 System.Drawing.Bitmap..ctor(Int32 width, Int32 height, PixelFormat format)
+   在 GWCamera.MDWSCameraHandler.NewBitmapFromGrayData(Byte[] ImgData, Int32 w, Int32 h) 位置 e:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\MDWSCameraHandler.cs:行号 745
+   在 GWCamera.MDWSCameraHandler.ProcessThread() 位置 e:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\MDWSCameraHandler.cs:行号 697
+2019-06-25 20:35:05 880    ProcessThread:System.ArgumentException: 参数无效。
+   在 System.Drawing.Bitmap..ctor(Int32 width, Int32 height, PixelFormat format)
+   在 GWCamera.MDWSCameraHandler.NewBitmapFromGrayData(Byte[] ImgData, Int32 w, Int32 h) 位置 e:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\MDWSCameraHandler.cs:行号 745
+   在 GWCamera.MDWSCameraHandler.ProcessThread() 位置 e:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\MDWSCameraHandler.cs:行号 697
+2019-06-25 20:35:06 208    ProcessThread:System.ArgumentException: 参数无效。
+   在 System.Drawing.Bitmap..ctor(Int32 width, Int32 height, PixelFormat format)
+   在 GWCamera.MDWSCameraHandler.NewBitmapFromGrayData(Byte[] ImgData, Int32 w, Int32 h) 位置 e:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\MDWSCameraHandler.cs:行号 745
+   在 GWCamera.MDWSCameraHandler.ProcessThread() 位置 e:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\MDWSCameraHandler.cs:行号 697
+2019-06-25 20:35:06 474    ProcessThread:System.ArgumentException: 参数无效。
+   在 System.Drawing.Bitmap..ctor(Int32 width, Int32 height, PixelFormat format)
+   在 GWCamera.MDWSCameraHandler.NewBitmapFromGrayData(Byte[] ImgData, Int32 w, Int32 h) 位置 e:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\MDWSCameraHandler.cs:行号 745
+   在 GWCamera.MDWSCameraHandler.ProcessThread() 位置 e:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\MDWSCameraHandler.cs:行号 697
+2019-06-25 20:35:06 771    ProcessThread:System.ArgumentException: 参数无效。
+   在 System.Drawing.Bitmap..ctor(Int32 width, Int32 height, PixelFormat format)
+   在 GWCamera.MDWSCameraHandler.NewBitmapFromGrayData(Byte[] ImgData, Int32 w, Int32 h) 位置 e:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\MDWSCameraHandler.cs:行号 745
+   在 GWCamera.MDWSCameraHandler.ProcessThread() 位置 e:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\MDWSCameraHandler.cs:行号 697
+2019-06-25 20:35:07 036    ProcessThread:System.ArgumentException: 参数无效。
+   在 System.Drawing.Bitmap..ctor(Int32 width, Int32 height, PixelFormat format)
+   在 GWCamera.MDWSCameraHandler.NewBitmapFromGrayData(Byte[] ImgData, Int32 w, Int32 h) 位置 e:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\MDWSCameraHandler.cs:行号 745
+   在 GWCamera.MDWSCameraHandler.ProcessThread() 位置 e:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\MDWSCameraHandler.cs:行号 697
+2019-06-25 20:35:07 474    ProcessThread:System.ArgumentException: 参数无效。
+   在 System.Drawing.Bitmap..ctor(Int32 width, Int32 height, PixelFormat format)
+   在 GWCamera.MDWSCameraHandler.NewBitmapFromGrayData(Byte[] ImgData, Int32 w, Int32 h) 位置 e:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\MDWSCameraHandler.cs:行号 745
+   在 GWCamera.MDWSCameraHandler.ProcessThread() 位置 e:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\MDWSCameraHandler.cs:行号 697
+2019-06-25 20:35:07 786    ProcessThread:System.ArgumentException: 参数无效。
+   在 System.Drawing.Bitmap..ctor(Int32 width, Int32 height, PixelFormat format)
+   在 GWCamera.MDWSCameraHandler.NewBitmapFromGrayData(Byte[] ImgData, Int32 w, Int32 h) 位置 e:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\MDWSCameraHandler.cs:行号 745
+   在 GWCamera.MDWSCameraHandler.ProcessThread() 位置 e:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\MDWSCameraHandler.cs:行号 697
+2019-06-25 20:35:08 459    ProcessThread:System.ArgumentException: 参数无效。
+   在 System.Drawing.Bitmap..ctor(Int32 width, Int32 height, PixelFormat format)
+   在 GWCamera.MDWSCameraHandler.NewBitmapFromGrayData(Byte[] ImgData, Int32 w, Int32 h) 位置 e:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\MDWSCameraHandler.cs:行号 745
+   在 GWCamera.MDWSCameraHandler.ProcessThread() 位置 e:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\MDWSCameraHandler.cs:行号 697
+2019-06-25 20:35:08 676    ProcessThread:System.ArgumentException: 参数无效。
+   在 System.Drawing.Bitmap..ctor(Int32 width, Int32 height, PixelFormat format)
+   在 GWCamera.MDWSCameraHandler.NewBitmapFromGrayData(Byte[] ImgData, Int32 w, Int32 h) 位置 e:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\MDWSCameraHandler.cs:行号 745
+   在 GWCamera.MDWSCameraHandler.ProcessThread() 位置 e:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\MDWSCameraHandler.cs:行号 697
+2019-06-25 20:35:08 957    ProcessThread:System.ArgumentException: 参数无效。
+   在 System.Drawing.Bitmap..ctor(Int32 width, Int32 height, PixelFormat format)
+   在 GWCamera.MDWSCameraHandler.NewBitmapFromGrayData(Byte[] ImgData, Int32 w, Int32 h) 位置 e:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\MDWSCameraHandler.cs:行号 745
+   在 GWCamera.MDWSCameraHandler.ProcessThread() 位置 e:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\MDWSCameraHandler.cs:行号 697
+2019-06-25 20:35:09 441    ProcessThread:System.ArgumentException: 参数无效。
+   在 System.Drawing.Bitmap..ctor(Int32 width, Int32 height, PixelFormat format)
+   在 GWCamera.MDWSCameraHandler.NewBitmapFromGrayData(Byte[] ImgData, Int32 w, Int32 h) 位置 e:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\MDWSCameraHandler.cs:行号 745
+   在 GWCamera.MDWSCameraHandler.ProcessThread() 位置 e:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\MDWSCameraHandler.cs:行号 697
+2019-06-25 20:35:09 879    ProcessThread:System.ArgumentException: 参数无效。
+   在 System.Drawing.Bitmap..ctor(Int32 width, Int32 height, PixelFormat format)
+   在 GWCamera.MDWSCameraHandler.NewBitmapFromGrayData(Byte[] ImgData, Int32 w, Int32 h) 位置 e:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\MDWSCameraHandler.cs:行号 745
+   在 GWCamera.MDWSCameraHandler.ProcessThread() 位置 e:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\MDWSCameraHandler.cs:行号 697
+2019-06-25 20:35:10 350    ProcessThread:System.ArgumentException: 参数无效。
+   在 System.Drawing.Bitmap..ctor(Int32 width, Int32 height, PixelFormat format)
+   在 GWCamera.MDWSCameraHandler.NewBitmapFromGrayData(Byte[] ImgData, Int32 w, Int32 h) 位置 e:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\MDWSCameraHandler.cs:行号 745
+   在 GWCamera.MDWSCameraHandler.ProcessThread() 位置 e:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\MDWSCameraHandler.cs:行号 697
+2019-06-25 20:35:10 991    ProcessThread:System.ArgumentException: 参数无效。
+   在 System.Drawing.Bitmap..ctor(Int32 width, Int32 height, PixelFormat format)
+   在 GWCamera.MDWSCameraHandler.NewBitmapFromGrayData(Byte[] ImgData, Int32 w, Int32 h) 位置 e:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\MDWSCameraHandler.cs:行号 745
+   在 GWCamera.MDWSCameraHandler.ProcessThread() 位置 e:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\MDWSCameraHandler.cs:行号 697
+2019-06-25 20:35:11 444    ProcessThread:System.ArgumentException: 参数无效。
+   在 System.Drawing.Bitmap..ctor(Int32 width, Int32 height, PixelFormat format)
+   在 GWCamera.MDWSCameraHandler.NewBitmapFromGrayData(Byte[] ImgData, Int32 w, Int32 h) 位置 e:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\MDWSCameraHandler.cs:行号 745
+   在 GWCamera.MDWSCameraHandler.ProcessThread() 位置 e:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\MDWSCameraHandler.cs:行号 697
+2019-06-25 20:35:11 772    ProcessThread:System.ArgumentException: 参数无效。
+   在 System.Drawing.Bitmap..ctor(Int32 width, Int32 height, PixelFormat format)
+   在 GWCamera.MDWSCameraHandler.NewBitmapFromGrayData(Byte[] ImgData, Int32 w, Int32 h) 位置 e:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\MDWSCameraHandler.cs:行号 745
+   在 GWCamera.MDWSCameraHandler.ProcessThread() 位置 e:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\MDWSCameraHandler.cs:行号 697
+2019-06-25 20:35:12 100    ProcessThread:System.ArgumentException: 参数无效。
+   在 System.Drawing.Bitmap..ctor(Int32 width, Int32 height, PixelFormat format)
+   在 GWCamera.MDWSCameraHandler.NewBitmapFromGrayData(Byte[] ImgData, Int32 w, Int32 h) 位置 e:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\MDWSCameraHandler.cs:行号 745
+   在 GWCamera.MDWSCameraHandler.ProcessThread() 位置 e:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\MDWSCameraHandler.cs:行号 697
+2019-06-25 20:35:12 521    ProcessThread:System.ArgumentException: 参数无效。
+   在 System.Drawing.Bitmap..ctor(Int32 width, Int32 height, PixelFormat format)
+   在 GWCamera.MDWSCameraHandler.NewBitmapFromGrayData(Byte[] ImgData, Int32 w, Int32 h) 位置 e:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\MDWSCameraHandler.cs:行号 745
+   在 GWCamera.MDWSCameraHandler.ProcessThread() 位置 e:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\MDWSCameraHandler.cs:行号 697
+2019-06-25 20:35:12 864    ProcessThread:System.ArgumentException: 参数无效。
+   在 System.Drawing.Bitmap..ctor(Int32 width, Int32 height, PixelFormat format)
+   在 GWCamera.MDWSCameraHandler.NewBitmapFromGrayData(Byte[] ImgData, Int32 w, Int32 h) 位置 e:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\MDWSCameraHandler.cs:行号 745
+   在 GWCamera.MDWSCameraHandler.ProcessThread() 位置 e:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\MDWSCameraHandler.cs:行号 697
+2019-06-25 20:35:13 380    ProcessThread:System.ArgumentException: 参数无效。
+   在 System.Drawing.Bitmap..ctor(Int32 width, Int32 height, PixelFormat format)
+   在 GWCamera.MDWSCameraHandler.NewBitmapFromGrayData(Byte[] ImgData, Int32 w, Int32 h) 位置 e:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\MDWSCameraHandler.cs:行号 745
+   在 GWCamera.MDWSCameraHandler.ProcessThread() 位置 e:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\MDWSCameraHandler.cs:行号 697
+2019-06-25 20:35:13 738    ProcessThread:System.ArgumentException: 参数无效。
+   在 System.Drawing.Bitmap..ctor(Int32 width, Int32 height, PixelFormat format)
+   在 GWCamera.MDWSCameraHandler.NewBitmapFromGrayData(Byte[] ImgData, Int32 w, Int32 h) 位置 e:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\MDWSCameraHandler.cs:行号 745
+   在 GWCamera.MDWSCameraHandler.ProcessThread() 位置 e:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\MDWSCameraHandler.cs:行号 697
+2019-06-25 20:35:14 127    ProcessThread:System.ArgumentException: 参数无效。
+   在 System.Drawing.Bitmap..ctor(Int32 width, Int32 height, PixelFormat format)
+   在 GWCamera.MDWSCameraHandler.NewBitmapFromGrayData(Byte[] ImgData, Int32 w, Int32 h) 位置 e:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\MDWSCameraHandler.cs:行号 745
+   在 GWCamera.MDWSCameraHandler.ProcessThread() 位置 e:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\MDWSCameraHandler.cs:行号 697
+2019-06-25 20:35:15 033    ProcessThread:System.ArgumentException: 参数无效。
+   在 System.Drawing.Bitmap..ctor(Int32 width, Int32 height, PixelFormat format)
+   在 GWCamera.MDWSCameraHandler.NewBitmapFromGrayData(Byte[] ImgData, Int32 w, Int32 h) 位置 e:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\MDWSCameraHandler.cs:行号 745
+   在 GWCamera.MDWSCameraHandler.ProcessThread() 位置 e:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\MDWSCameraHandler.cs:行号 697

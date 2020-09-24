@@ -1,0 +1,55 @@
+2019-06-06 15:38:12 808    新包裹进入 从1 -> 0
+2019-06-06 15:38:12 821    Package New, id: 1
+2019-06-06 15:38:13 069    Package Begin: 1.
+2019-06-06 15:38:53 562    KsjCameraHandler ---->the package leave!!!
+2019-06-06 15:38:55 469    KsjCameraHandler ---->Package Complete, id: 1, FrameCount: 416.wait for a moment and clear Pack Frame!!!
+2019-06-06 15:38:57 703    KSJCameraHandler----->Camera 1 recognize barcode:70000000000010026.
+2019-06-06 15:38:57 725    KSJCameraHandler----->Camera 1 recognize barcode:70000000000010026.
+2019-06-06 15:38:57 740    end task!
+2019-06-06 15:38:57 751    end task, 416 Frames run algorithm
+2019-06-06 15:38:57 770    KSJCameraHandler----->Package End: 1.
+2019-06-06 15:38:58 110    0recognized barcode: 70000000000010026
+2019-06-06 15:38:58 649    six cameras recognize:70000000000010026
+2019-06-06 15:38:58 807    KSJCameraHandler----->this is a whole process ending!!!
+2019-06-06 15:41:14 425    新包裹进入 从1 -> 0
+2019-06-06 15:41:14 438    Package New, id: 1
+2019-06-06 15:41:14 456    Package Begin: 1.
+2019-06-06 15:41:35 185    KsjCameraHandler ---->the package leave!!!
+2019-06-06 15:41:37 619    KsjCameraHandler ---->Package Complete, id: 1, FrameCount: 358.wait for a moment and clear Pack Frame!!!
+2019-06-06 15:41:38 838    KSJCameraHandler----->Camera 1 recognize barcode:70000000000010026.
+2019-06-06 15:41:38 920    KSJCameraHandler----->Camera 1 recognize barcode:70000000000010026.
+2019-06-06 15:41:38 931    KSJCameraHandler----->Camera 1 recognize barcode:     *"6.
+2019-06-06 15:41:38 943    end task!
+2019-06-06 15:41:38 952    end task, 358 Frames run algorithm
+2019-06-06 15:41:38 962    KSJCameraHandler----->Package End: 1.
+2019-06-06 15:41:38 980    KSJCameraHandler----->this is a multi-barcode 0 recognized barcode: 70000000000010026
+2019-06-06 15:41:38 989    KSJCameraHandler----->this is a multi-barcode 1 recognized barcode:      *"6
+2019-06-06 15:41:39 357    six cameras recognize:70000000000010026+     *"6
+2019-06-06 15:41:39 396    KSJCameraHandler----->this is a whole process ending!!!
+2019-06-06 15:44:28 422    新包裹进入 从1 -> 0
+2019-06-06 15:44:28 483    Package New, id: 1
+2019-06-06 15:44:28 742    Package Begin: 1.
+2019-06-06 15:44:47 507    KsjCameraHandler ---->the package leave!!!
+2019-06-06 15:44:48 183    KsjCameraHandler ---->Package Complete, id: 1, FrameCount: 325.wait for a moment and clear Pack Frame!!!
+2019-06-06 15:44:49 024    KSJCameraHandler----->Camera 1 recognize barcode:70000000000010026.
+2019-06-06 15:44:49 646    KSJCameraHandler----->Camera 1 recognize barcode:    .
+2019-06-06 15:44:49 857    end task!
+2019-06-06 15:44:49 941    end task, 325 Frames run algorithm
+2019-06-06 15:44:49 958    KSJCameraHandler----->Package End: 1.
+2019-06-06 15:44:50 036    KSJCameraHandler----->this is a multi-barcode 0 recognized barcode: 70000000000010026
+2019-06-06 15:44:50 064    KSJCameraHandler----->this is a multi-barcode 1 recognized barcode:     
+2019-06-06 15:44:51 246    six cameras recognize:70000000000010026+    
+2019-06-06 15:44:51 418    KSJCameraHandler----->this is a whole process ending!!!
+2019-06-06 16:24:48 228    新包裹进入 从1 -> 0
+2019-06-06 16:24:48 245    Package New, id: 1
+2019-06-06 16:24:48 491    Package Begin: 1.
+2019-06-06 16:24:48 563    KsjCameraHandler ---->the package leave!!!
+2019-06-06 16:24:48 769    KsjCameraHandler ---->Package Complete, id: 1, FrameCount: 10.wait for a moment and clear Pack Frame!!!
+2019-06-06 16:24:48 880    KSJCameraHandler----->Camera 1 recognize barcode:70000000000010026.
+2019-06-06 16:24:48 883    KSJCameraHandler----->Camera 1 recognize barcode:70000000000010026.
+2019-06-06 16:24:48 888    end task!
+2019-06-06 16:24:48 892    end task, 10 Frames run algorithm
+2019-06-06 16:24:48 897    KSJCameraHandler----->Package End: 1.
+2019-06-06 16:24:48 904    0recognized barcode: 70000000000010026
+2019-06-06 16:24:48 913    six cameras recognize:70000000000010026
+2019-06-06 16:24:48 922    KSJCameraHandler----->this is a whole process ending!!!

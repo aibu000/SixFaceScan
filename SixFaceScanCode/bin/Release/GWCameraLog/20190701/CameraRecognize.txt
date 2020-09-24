@@ -1,0 +1,101 @@
+2019-07-01 18:10:45 059    the package leave!!!
+2019-07-01 18:10:45 327    New package start : 1 -> 0
+2019-07-01 18:10:45 579    Package Begin: 1.
+2019-07-01 18:12:31 792    New package start : 1 -> 0
+2019-07-01 18:12:32 052    Package Begin: 1.
+2019-07-01 18:12:32 067    the package leave!!!
+2019-07-01 18:12:32 278    Package Complete, id: 1, FrameCount: 6
+2019-07-01 18:12:32 336    Camera MV-SUA2000M#0001-0017 alg time: 112
+2019-07-01 18:12:32 340    Camera MV-SUA2000M#0001-0017 alg time: 73
+2019-07-01 18:12:32 343    Camera MV-SUA2000M#0001-0017 alg time: 91
+2019-07-01 18:12:32 346    Camera MV-SUA2000M#0001-0017 alg time: 81
+2019-07-01 18:12:32 349    Camera MV-SUA2000M#0001-0017 alg time: 62
+2019-07-01 18:12:32 429    Camera MV-SUA2000M#0001-0017 alg time: 49
+2019-07-01 18:12:32 441    end task!
+2019-07-01 18:12:32 452    end task, 6 Frames run algorithm
+2019-07-01 18:12:32 464    MDWSCameraHandler----->Package End: 1.
+2019-07-01 18:12:43 198    Don't recognized this package,the barcode is: noread
+2019-07-01 18:12:43 443    six cameras recognize:noread
+2019-07-01 18:12:43 483    MDWSCameraHandler----->this is a whole process ending!!!
+2019-07-01 18:13:38 726    New package start : 1 -> 0
+2019-07-01 18:13:38 953    Package Begin: 2.
+2019-07-01 18:13:39 001    the package leave!!!
+2019-07-01 18:13:39 207    Package Complete, id: 2, FrameCount: 6
+2019-07-01 18:13:39 325    Camera MV-SUA2000M#0001-0017 alg time: 85
+2019-07-01 18:13:39 333    Camera MV-SUA2000M#0001-0017 alg time: 73
+2019-07-01 18:13:39 341    Camera MV-SUA2000M#0001-0017 alg time: 35
+2019-07-01 18:13:39 348    Camera MV-SUA2000M#0001-0017 alg time: 73
+2019-07-01 18:13:39 359    Camera MV-SUA2000M#0001-0017 alg time: 94
+2019-07-01 18:13:39 371    Camera MV-SUA2000M#0001-0017 alg time: 45
+2019-07-01 18:13:39 383    end task!
+2019-07-01 18:13:39 396    end task, 6 Frames run algorithm
+2019-07-01 18:13:39 407    MDWSCameraHandler----->Package End: 2.
+2019-07-01 18:13:39 417    Don't recognized this package,the barcode is: noread
+2019-07-01 18:13:39 548    six cameras recognize:noread
+2019-07-01 18:13:39 561    MDWSCameraHandler----->this is a whole process ending!!!
+2019-07-01 18:15:26 403    New package start : 1 -> 0
+2019-07-01 18:15:26 633    Package Begin: 1.
+2019-07-01 18:15:26 753    the package leave!!!
+2019-07-01 18:15:26 958    Package Complete, id: 1, FrameCount: 7
+2019-07-01 18:15:27 062    Camera MV-SUA2000M#0001-0017 alg time: 58
+2019-07-01 18:15:27 068    Camera MV-SUA2000M#0001-0017 alg time: 28
+2019-07-01 18:15:27 074    Camera MV-SUA2000M#0001-0017 alg time: 54
+2019-07-01 18:15:27 080    Camera MV-SUA2000M#0001-0017 alg time: 46
+2019-07-01 18:15:27 088    Camera MV-SUA2000M#0001-0017 alg time: 61
+2019-07-01 18:15:27 096    Camera MV-SUA2000M#0001-0017 alg time: 39
+2019-07-01 18:15:27 104    Camera MV-SUA2000M#0001-0017 alg time: 74
+2019-07-01 18:15:27 113    end task!
+2019-07-01 18:15:27 126    end task, 7 Frames run algorithm
+2019-07-01 18:15:27 138    MDWSCameraHandler----->Package End: 1.
+2019-07-01 18:15:27 150    Don't recognized this package,the barcode is: noread
+2019-07-01 18:15:27 348    six cameras recognize:noread
+2019-07-01 18:15:27 362    MDWSCameraHandler----->this is a whole process ending!!!
+2019-07-01 18:17:52 375    New package start : 1 -> 0
+2019-07-01 18:17:52 575    the package leave!!!
+2019-07-01 18:17:52 587    Package Begin: 1.
+2019-07-01 18:17:52 785    Package Complete, id: 1, FrameCount: 4
+2019-07-01 18:17:52 884    Camera MV-SUA2000M#0001-0017 alg time: 64
+2019-07-01 18:17:52 887    Camera MV-SUA2000M#0001-0017 alg time: 69
+2019-07-01 18:17:52 895    Camera MV-SUA2000M#0001-0017 alg time: 65
+2019-07-01 18:17:52 898    Camera MV-SUA2000M#0001-0017 alg time: 66
+2019-07-01 18:17:52 904    end task!
+2019-07-01 18:17:52 908    end task, 4 Frames run algorithm
+2019-07-01 18:17:52 914    MDWSCameraHandler----->Package End: 1.
+2019-07-01 18:17:52 920    Don't recognized this package,the barcode is: noread
+2019-07-01 18:17:53 049    six cameras recognize:noread
+2019-07-01 18:17:53 062    MDWSCameraHandler----->this is a whole process ending!!!
+2019-07-01 18:18:22 656    New package start : 1 -> 0
+2019-07-01 18:18:22 885    Package Begin: 2.
+2019-07-01 18:18:23 937    the package leave!!!
+2019-07-01 18:18:24 145    Package Complete, id: 2, FrameCount: 25
+2019-07-01 18:18:24 201    Camera MV-SUA2000M#0001-0017 alg time: 106
+2019-07-01 18:18:24 205    Camera MV-SUA2000M#0001-0017 alg time: 108
+2019-07-01 18:18:24 210    Camera MV-SUA2000M#0001-0017 alg time: 124
+2019-07-01 18:18:24 215    Camera MV-SUA2000M#0001-0017 alg time: 82
+2019-07-01 18:18:24 223    Camera MV-SUA2000M#0001-0017 alg time: 85
+2019-07-01 18:18:24 228    Camera MV-SUA2000M#0001-0017 alg time: 104
+2019-07-01 18:18:24 234    Camera MV-SUA2000M#0001-0017 alg time: 60
+2019-07-01 18:18:24 239    Camera MV-SUA2000M#0001-0017 alg time: 54
+2019-07-01 18:18:24 244    Camera MV-SUA2000M#0001-0017 alg time: 90
+2019-07-01 18:18:24 248    Camera MV-SUA2000M#0001-0017 alg time: 91
+2019-07-01 18:18:24 253    Camera MV-SUA2000M#0001-0017 alg time: 81
+2019-07-01 18:18:24 257    Camera MV-SUA2000M#0001-0017 alg time: 48
+2019-07-01 18:18:24 261    Camera MV-SUA2000M#0001-0017 alg time: 43
+2019-07-01 18:18:24 266    Camera MV-SUA2000M#0001-0017 alg time: 55
+2019-07-01 18:18:24 271    Camera MV-SUA2000M#0001-0017 alg time: 147
+2019-07-01 18:18:24 276    Camera MV-SUA2000M#0001-0017 alg time: 62
+2019-07-01 18:18:24 280    Camera MV-SUA2000M#0001-0017 alg time: 87
+2019-07-01 18:18:24 284    Camera MV-SUA2000M#0001-0017 alg time: 84
+2019-07-01 18:18:24 289    Camera MV-SUA2000M#0001-0017 alg time: 74
+2019-07-01 18:18:24 293    Camera MV-SUA2000M#0001-0017 alg time: 99
+2019-07-01 18:18:24 298    Camera MV-SUA2000M#0001-0017 alg time: 107
+2019-07-01 18:18:24 305    Camera MV-SUA2000M#0001-0017 alg time: 98
+2019-07-01 18:18:24 310    Camera MV-SUA2000M#0001-0017 alg time: 78
+2019-07-01 18:18:24 315    Camera MV-SUA2000M#0001-0017 alg time: 67
+2019-07-01 18:18:24 323    Camera MV-SUA2000M#0001-0017 alg time: 27
+2019-07-01 18:18:24 329    end task!
+2019-07-01 18:18:24 336    end task, 25 Frames run algorithm
+2019-07-01 18:18:24 343    MDWSCameraHandler----->Package End: 2.
+2019-07-01 18:18:24 349    Don't recognized this package,the barcode is: noread
+2019-07-01 18:18:24 605    six cameras recognize:noread
+2019-07-01 18:18:24 621    MDWSCameraHandler----->this is a whole process ending!!!
