@@ -82,6 +82,7 @@ namespace GWCamera
                         barCode = AddLineCode(barCode);
                         string[] newarr = null;
                         #region 多条码的时候去除noread
+                        GWCameraLog.Instance.CameraRecogLog("GWCameraHandler----->" + barCode);
                         if (barCode.Length > 1 && barCode.Contains("noread"))
                         {
                             List<string> list = barCode.ToList();

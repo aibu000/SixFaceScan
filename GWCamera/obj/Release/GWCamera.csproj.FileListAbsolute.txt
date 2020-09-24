@@ -108,3 +108,11 @@ E:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\bin\Release\GWC
 E:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\obj\Release\GWCamera.dll
 E:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\obj\Release\GWCamera.pdb
 E:\WORK2019\六面扫码\1.Code\SixFaceScanCode20190605\GWCamera\obj\Release\GWCamera.csprojResolveAssemblyReference.cache
+F:\GitHub\SixFaceScan\GWCamera\bin\Release\AlgorithmBarcodeDetection64.dll
+F:\GitHub\SixFaceScan\GWCamera\bin\Release\ZKGWConfig.xml
+F:\GitHub\SixFaceScan\GWCamera\bin\Release\GWCamera.dll
+F:\GitHub\SixFaceScan\GWCamera\bin\Release\GWCamera.pdb
+F:\GitHub\SixFaceScan\GWCamera\obj\Release\GWCamera.csprojAssemblyReference.cache
+F:\GitHub\SixFaceScan\GWCamera\obj\Release\GWCamera.csproj.CoreCompileInputs.cache
+F:\GitHub\SixFaceScan\GWCamera\obj\Release\GWCamera.dll
+F:\GitHub\SixFaceScan\GWCamera\obj\Release\GWCamera.pdb
