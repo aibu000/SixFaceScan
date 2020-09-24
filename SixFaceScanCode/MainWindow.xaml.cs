@@ -37,6 +37,7 @@ namespace SixFaceScanCode
 
         private void Window_Closing(object sender, System.ComponentModel.CancelEventArgs e)
         {
+            GWCameraLog.Instance.CameraRecogLog($"关闭程序");
             CameraBLL.Instance.GetAllBarCodeEvent -= new CameraBLL.GetAllBarCodeEventHandler(Instance_GetImgInfoEvent);
             CameraBLL.Instance.GetAllCameraStateEvent -= new CameraBLL.GetAllCameraStateEventHandler(ShowCameraState);
             CameraBLL.Instance.CloseCamera();
